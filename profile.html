@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Student Profile | Civils Master</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<h1>👤 Civils Master</h1>
+
+<h2>Student Profile | విద్యార్థి ప్రొఫైల్</h2>
+
+<p>
+Track Your UPSC Preparation Journey
+</p>
+
+</header>
+
+
+
+
+<nav class="navbar">
+
+<a href="index.html">🏠 Home</a>
+
+<a href="planner.html">📅 Planner</a>
+
+<a href="quiz.html">📝 Quiz</a>
+
+<a href="contact.html">📞 Contact</a>
+
+</nav>
+
+
+
+
+
+
+<div class="container">
+
+
+
+
+
+
+<div class="card">
+
+
+<h2>👨 Student Details</h2>
+
+
+<p>
+
+<b>English:</b><br>
+
+Create your profile and track your UPSC preparation progress.
+
+</p>
+
+
+<p>
+
+<b>తెలుగు:</b><br>
+
+మీ UPSC ప్రిపరేషన్ పురోగతిని తెలుసుకోవడానికి మీ ప్రొఫైల్‌ను సృష్టించండి.
+
+</p>
+
+
+<br>
+
+
+<input id="studentName" placeholder="Enter Your Name">
+
+
+<select id="goal">
+
+<option>IAS</option>
+
+<option>IPS</option>
+
+<option>IFS</option>
+
+<option>UPSC Aspirant</option>
+
+</select>
+
+
+<button onclick="saveProfile()">
+
+💾 Save Profile
+
+</button>
+
+
+<p id="profileMessage"></p>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="card">
+
+
+<h2>📊 Preparation Progress</h2>
+
+
+<input type="range" id="progress" min="0" max="100" value="30" oninput="showProgress()">
+
+
+
+<progress id="progressBar" value="30" max="100"></progress>
+
+
+<p id="progressText">
+
+30% Completed
+
+</p>
+
+
+
+<button onclick="saveProgress()">
+
+💾 Save Progress
+
+</button>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="card">
+
+
+<h2>📚 Subjects Progress</h2>
+
+
+<ul>
+
+
+<li>🏛️ Indian Polity ✅</li>
+
+<li>📜 History ✅</li>
+
+<li>🌍 Geography ✅</li>
+
+<li>💰 Economy ⏳</li>
+
+<li>🌱 Environment ⏳</li>
+
+<li>🔬 Science & Technology ⏳</li>
+
+<li>🎨 Art & Culture ⏳</li>
+
+<li>📰 Current Affairs 🔄</li>
+
+
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="card">
+
+
+<h2>🎯 Daily Targets</h2>
+
+
+<ul>
+
+
+<li>📖 Read 2 Subjects</li>
+
+<li>📝 Solve 25 MCQs</li>
+
+<li>📚 Revise Notes</li>
+
+<li>📰 Read Current Affairs</li>
+
+<li>✍️ Write One Mains Answer</li>
+
+
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="card">
+
+
+<h2>🏆 Achievements</h2>
+
+
+<ul>
+
+
+<li>⭐ First Profile Created</li>
+
+<li>🔥 Regular Learner</li>
+
+<li>📘 Subject Practice Completed</li>
+
+
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="card">
+
+
+<a href="index.html">
+
+🏠 Back to Home
+
+</a>
+
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<script>
+
+
+function saveProfile(){
+
+
+let name=document.getElementById("studentName").value;
+
+let goal=document.getElementById("goal").value;
+
+
+
+localStorage.setItem("studentName",name);
+
+localStorage.setItem("studentGoal",goal);
+
+
+
+document.getElementById("profileMessage").innerHTML=
+
+"✅ Profile Saved Successfully!";
+
+
+}
+
+
+
+
+
+
+
+function showProgress(){
+
+
+let value=document.getElementById("progress").value;
+
+
+document.getElementById("progressBar").value=value;
+
+
+document.getElementById("progressText").innerHTML=
+
+value+"% Completed";
+
+
+}
+
+
+
+
+
+function saveProgress(){
+
+
+let value=document.getElementById("progress").value;
+
+
+localStorage.setItem("progress",value);
+
+
+alert("✅ Progress Saved");
+
+
+}
+
+
+
+
+
+
+
+window.onload=function(){
+
+
+let name=localStorage.getItem("studentName");
+
+let savedProgress=localStorage.getItem("progress");
+
+
+
+if(name){
+
+document.getElementById("studentName").value=name;
+
+}
+
+
+
+if(savedProgress){
+
+
+document.getElementById("progress").value=savedProgress;
+
+document.getElementById("progressBar").value=savedProgress;
+
+document.getElementById("progressText").innerHTML=
+
+savedProgress+"% Completed";
+
+
+}
+
+
+
+}
+
+
+
+</script>
+
+
+
+</body>
+
+</html>

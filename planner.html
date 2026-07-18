@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Study Planner | Civils Master</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<h1>📅 Civils Master</h1>
+
+<h2>UPSC Study Planner | అధ్యయన ప్రణాళిక</h2>
+
+<p>
+Plan Your Daily UPSC Preparation
+<br>
+English + తెలుగు
+</p>
+
+</header>
+
+
+
+
+<nav class="navbar">
+
+<a href="index.html">🏠 Home</a>
+
+<a href="materials.html">📚 Materials</a>
+
+<a href="answer.html">✍️ Answer Writing</a>
+
+<a href="current-affairs.html">📰 Current Affairs</a>
+
+</nav>
+
+
+
+
+
+<div class="container">
+
+
+
+
+
+<div class="welcome-card">
+
+<h2>📖 Daily Study Planner</h2>
+
+
+<p>
+
+<b>English:</b><br>
+
+A proper study plan helps UPSC aspirants manage time, complete syllabus and revise effectively.
+
+</p>
+
+
+<p>
+
+<b>తెలుగు:</b><br>
+
+సరైన అధ్యయన ప్రణాళిక UPSC అభ్యర్థులకు సమయాన్ని నిర్వహించడానికి, సిలబస్ పూర్తి చేయడానికి మరియు పునశ్చరణ చేయడానికి సహాయపడుతుంది.
+
+</p>
+
+
+</div>
+
+
+
+
+
+
+<div class="card">
+
+<h2>🎯 Daily Targets | రోజువారీ లక్ష్యాలు</h2>
+
+
+<ul>
+
+<li>📖 Complete one topic from any subject</li>
+
+<li>📝 Solve minimum 25 MCQs</li>
+
+<li>📚 Revise previous notes</li>
+
+<li>📰 Read Current Affairs</li>
+
+<li>✍️ Practice one Mains answer</li>
+
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+<div class="card">
+
+
+<h2>📚 Subject Checklist</h2>
+
+
+<label>
+
+<input type="checkbox" class="task">
+
+⚖ Indian Polity Completed
+
+</label>
+
+
+<br><br>
+
+
+<label>
+
+<input type="checkbox" class="task">
+
+📜 History Completed
+
+</label>
+
+
+<br><br>
+
+
+<label>
+
+<input type="checkbox" class="task">
+
+🌍 Geography Completed
+
+</label>
+
+
+<br><br>
+
+
+<label>
+
+<input type="checkbox" class="task">
+
+💰 Economy Completed
+
+</label>
+
+
+<br><br>
+
+
+<label>
+
+<input type="checkbox" class="task">
+
+🌱 Environment Completed
+
+</label>
+
+
+<br><br>
+
+
+<label>
+
+<input type="checkbox" class="task">
+
+🔬 Science & Technology Completed
+
+</label>
+
+
+<br><br>
+
+
+<button onclick="saveChecklist()">
+
+💾 Save Checklist
+
+</button>
+
+
+<p id="checkMessage"></p>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="card">
+
+
+<h2>🔁 Revision Tracker</h2>
+
+
+<ul>
+
+<li>✅ Daily Revision</li>
+
+<li>⏳ Weekly Revision</li>
+
+<li>⏳ Monthly Revision</li>
+
+<li>⏳ Previous Year Questions Revision</li>
+
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="card">
+
+
+<h2>📝 Today's Study Notes</h2>
+
+
+<textarea id="planText" rows="6" placeholder="Write your today's study plan here..."></textarea>
+
+
+<br>
+
+
+<button onclick="savePlan()">
+
+💾 Save Today's Plan
+
+</button>
+
+
+<p id="planMessage"></p>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="welcome-card">
+
+
+<h2>🔥 Motivation</h2>
+
+
+<p>
+
+"Small daily efforts create great success."
+
+</p>
+
+
+<p>
+
+"ప్రతిరోజు చేసే చిన్న ప్రయత్నాలు గొప్ప విజయాన్ని ఇస్తాయి."
+
+</p>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="card">
+
+
+<a href="index.html">
+
+🏠 Back to Home
+
+</a>
+
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<script>
+
+
+function savePlan(){
+
+
+let plan=document.getElementById("planText").value;
+
+
+localStorage.setItem("dailyStudyPlan",plan);
+
+
+document.getElementById("planMessage").innerHTML=
+
+"✅ Study Plan Saved Successfully!";
+
+
+}
+
+
+
+
+
+function saveChecklist(){
+
+
+let tasks=[];
+
+
+document.querySelectorAll(".task").forEach(function(item){
+
+
+tasks.push(item.checked);
+
+
+});
+
+
+localStorage.setItem(
+
+"plannerChecklist",
+
+JSON.stringify(tasks)
+
+);
+
+
+
+document.getElementById("checkMessage").innerHTML=
+
+"✅ Checklist Saved!";
+
+
+}
+
+
+
+
+
+window.onload=function(){
+
+
+let savedPlan=
+
+localStorage.getItem("dailyStudyPlan");
+
+
+if(savedPlan){
+
+document.getElementById("planText").value=savedPlan;
+
+}
+
+
+
+let savedTasks=
+
+JSON.parse(localStorage.getItem("plannerChecklist"));
+
+
+
+if(savedTasks){
+
+
+document.querySelectorAll(".task").forEach(function(item,index){
+
+
+item.checked=savedTasks[index];
+
+
+});
+
+
+}
+
+
+}
+
+
+
+</script>
+
+
+
+
+
+</body>
+
+</html>
