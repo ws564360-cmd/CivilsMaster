@@ -1,0 +1,8125 @@
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 1 -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations (IR)</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+International Relations (IR) is the study of interactions among countries, international organisations and global actors. It explains how nations cooperate, compete and manage conflicts in the international system.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ సంబంధాలు అనేవి దేశాలు, అంతర్జాతీయ సంస్థలు మరియు ప్రపంచ స్థాయి సంస్థల మధ్య జరిగే పరస్పర సంబంధాల అధ్యయనం. దేశాలు ఎలా సహకరిస్తాయి, పోటీ పడతాయి మరియు వివాదాలను ఎలా పరిష్కరిస్తాయి అనే విషయాలను ఇది వివరిస్తుంది.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of International Relations</h3>
+
+<p>
+<b>English:</b><br>
+International Relations refers to the study of political, economic, social, cultural and strategic relations between countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాల మధ్య రాజకీయ, ఆర్థిక, సామాజిక, సాంస్కృతిక మరియు వ్యూహాత్మక సంబంధాల అధ్యయనాన్ని అంతర్జాతీయ సంబంధాలు అంటారు.
+</p>
+
+<hr>
+
+<h3>⭐ Scope of International Relations</h3>
+
+<ul>
+
+<li>✔ Foreign Policy</li>
+
+<li>✔ International Security</li>
+
+<li>✔ Global Economy</li>
+
+<li>✔ International Organisations</li>
+
+<li>✔ Diplomacy</li>
+
+<li>✔ International Law</li>
+
+<li>✔ Global Issues</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 Importance of International Relations</h3>
+
+<hr>
+
+<h4>1️⃣ National Security</h4>
+
+<p>
+<b>English:</b><br>
+IR helps countries protect their national interests and security through diplomacy and strategic partnerships.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దౌత్యం మరియు వ్యూహాత్మక భాగస్వామ్యాల ద్వారా దేశ భద్రత మరియు జాతీయ ప్రయోజనాలను కాపాడుకోవడానికి IR సహాయపడుతుంది.
+</p>
+
+<hr>
+
+<h4>2️⃣ Economic Development</h4>
+
+<p>
+<b>English:</b><br>
+International relations promote trade, investment and economic cooperation among nations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ సంబంధాలు దేశాల మధ్య వాణిజ్యం, పెట్టుబడులు మరియు ఆర్థిక సహకారాన్ని పెంచుతాయి.
+</p>
+
+<hr>
+
+<h4>3️⃣ Global Cooperation</h4>
+
+<p>
+<b>English:</b><br>
+Countries work together to address issues like climate change, terrorism and pandemics.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాతావరణ మార్పులు, ఉగ్రవాదం మరియు మహమ్మారులు వంటి ప్రపంచ సమస్యలను పరిష్కరించడానికి దేశాలు కలిసి పనిచేస్తాయి.
+</p>
+
+<hr>
+
+<h3>🏛️ Main Actors in International Relations</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Actor</th>
+<th>Role</th>
+</tr>
+
+<tr>
+<td>Nation States</td>
+<td>Main players in global politics</td>
+</tr>
+
+<tr>
+<td>International Organisations</td>
+<td>Promote cooperation</td>
+</tr>
+
+<tr>
+<td>Non-Governmental Organisations</td>
+<td>Address global issues</td>
+</tr>
+
+<tr>
+<td>Multinational Corporations</td>
+<td>Influence global economy</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🇮🇳 Importance of IR for India</h3>
+
+<ul>
+
+<li>✔ Protecting national interests</li>
+
+<li>✔ Economic growth through global trade</li>
+
+<li>✔ Maintaining strategic partnerships</li>
+
+<li>✔ Increasing India's global influence</li>
+
+<li>✔ Ensuring regional security</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 IR Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+National Interest  
++<br>
+Diplomacy  
++<br>
+Cooperation  
++<br>
+Strategic Vision  
+
+<br><br>
+
+= Effective Foreign Relations
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. International Relations mainly studies:</b>
+</p>
+
+<p>
+A) Relations among countries<br>
+B) Only domestic politics<br>
+C) Individual behaviour<br>
+D) Local administration
+</p>
+
+<p>
+<b>✅ Answer: A) Relations among countries</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Diplomacy is a tool of:</b>
+</p>
+
+<p>
+A) International relations<br>
+B) Agriculture policy<br>
+C) Local governance<br>
+D) Personal communication
+</p>
+
+<p>
+<b>✅ Answer: A) International relations</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 2 -->
+<!-- EVOLUTION OF INTERNATIONAL RELATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>📜 Evolution of International Relations</h3>
+
+<h3>(అంతర్జాతీయ సంబంధాల పరిణామం)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+International Relations has evolved from ancient diplomatic interactions between kingdoms to a complex global system involving states, international organisations and non-state actors.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ సంబంధాలు ప్రాచీన రాజ్యాల మధ్య దౌత్య సంబంధాల నుండి ఆధునిక ప్రపంచంలో దేశాలు, అంతర్జాతీయ సంస్థలు మరియు ఇతర సంస్థలు పాల్గొనే సంక్లిష్ట వ్యవస్థగా పరిణామం చెందాయి.
+</p>
+
+<hr>
+
+<h3>1️⃣ Ancient Period</h3>
+
+<h3>(ప్రాచీన కాలం)</h3>
+
+<p>
+<b>English:</b><br>
+Ancient kingdoms maintained relations through trade, alliances, wars and diplomatic missions.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రాచీన రాజ్యాలు వాణిజ్యం, పొత్తులు, యుద్ధాలు మరియు దౌత్య సంబంధాల ద్వారా పరస్పర సంబంధాలను కొనసాగించాయి.
+</p>
+
+<h4>Examples:</h4>
+
+<ul>
+
+<li>Relations between Indian kingdoms</li>
+
+<li>Trade routes like Silk Route</li>
+
+<li>Ashoka's diplomatic missions</li>
+
+</ul>
+
+<hr>
+
+<h3>2️⃣ Westphalian System (1648)</h3>
+
+<h3>(వెస్ట్‌ఫాలియా వ్యవస్థ)</h3>
+
+<p>
+<b>English:</b><br>
+The Peace of Westphalia is considered a major turning point in modern international relations. It established the concept of sovereign states.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1648 వెస్ట్‌ఫాలియా ఒప్పందం ఆధునిక అంతర్జాతీయ సంబంధాలలో ముఖ్యమైన మలుపుగా భావించబడుతుంది. ఇది సార్వభౌమ దేశాల భావనను బలపరిచింది.
+</p>
+
+<h4>Key Features:</h4>
+
+<ul>
+
+<li>Sovereignty of states</li>
+
+<li>Non-interference principle</li>
+
+<li>Territorial authority</li>
+
+</ul>
+
+<hr>
+
+<h3>3️⃣ Balance of Power Era</h3>
+
+<h3>(శక్తి సమతుల్యత కాలం)</h3>
+
+<p>
+<b>English:</b><br>
+European powers attempted to maintain balance by forming alliances to prevent domination by any single power.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఒకే శక్తివంతమైన దేశం ఆధిపత్యం సాధించకుండా యూరోపియన్ దేశాలు పొత్తుల ద్వారా శక్తి సమతుల్యతను కొనసాగించాయి.
+</p>
+
+<hr>
+
+<h3>4️⃣ World Wars Period</h3>
+
+<h3>(ప్రపంచ యుద్ధాల కాలం)</h3>
+
+<p>
+<b>English:</b><br>
+The two World Wars changed the global order and highlighted the need for international cooperation.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+రెండు ప్రపంచ యుద్ధాలు ప్రపంచ వ్యవస్థను మార్చాయి మరియు అంతర్జాతీయ సహకారం అవసరాన్ని చూపించాయి.
+</p>
+
+<h4>Important Developments:</h4>
+
+<ul>
+
+<li>Formation of League of Nations</li>
+
+<li>Formation of United Nations</li>
+
+<li>Growth of international law</li>
+
+</ul>
+
+<hr>
+
+<h3>5️⃣ Cold War Period (1945-1991)</h3>
+
+<h3>(శీతల యుద్ధ కాలం)</h3>
+
+<p>
+<b>English:</b><br>
+The world was divided mainly between two superpowers — the United States and the Soviet Union.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచం ప్రధానంగా అమెరికా మరియు సోవియట్ యూనియన్ అనే రెండు అగ్రరాజ్యాల మధ్య విభజించబడింది.
+</p>
+
+<h4>Features:</h4>
+
+<ul>
+
+<li>Ideological competition</li>
+
+<li>Nuclear arms race</li>
+
+<li>Formation of military alliances</li>
+
+<li>Non-Aligned Movement</li>
+
+</ul>
+
+<hr>
+
+<h3>6️⃣ Post-Cold War Era</h3>
+
+<h3>(శీతల యుద్ధానంతర కాలం)</h3>
+
+<p>
+<b>English:</b><br>
+After 1991, globalisation increased and new issues like terrorism, climate change and cyber security became important.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1991 తర్వాత ప్రపంచీకరణ పెరిగింది మరియు ఉగ్రవాదం, వాతావరణ మార్పులు, సైబర్ భద్రత వంటి కొత్త అంశాలు ప్రాముఖ్యత పొందాయి.
+</p>
+
+<hr>
+
+<h3>📊 Evolution Timeline</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Period</th>
+<th>Major Feature</th>
+</tr>
+
+<tr>
+<td>Ancient Period</td>
+<td>Kingdoms and diplomacy</td>
+</tr>
+
+<tr>
+<td>1648</td>
+<td>Sovereign state system</td>
+</tr>
+
+<tr>
+<td>World Wars</td>
+<td>Need for global institutions</td>
+</tr>
+
+<tr>
+<td>Cold War</td>
+<td>US-Soviet rivalry</td>
+</tr>
+
+<tr>
+<td>Post-1991</td>
+<td>Globalisation and new challenges</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🔥 IR Evolution Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Kingdoms  
+↓<br>
+Sovereign States  
+↓<br>
+Global Institutions  
+↓<br>
+Global Cooperation  
+
+<br><br>
+
+= Modern International Relations
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Peace of Westphalia is associated with:</b>
+</p>
+
+<p>
+A) Sovereign state system<br>
+B) United Nations formation<br>
+C) Cold War end<br>
+D) European Union
+</p>
+
+<p>
+<b>✅ Answer: A) Sovereign state system</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Cold War was mainly between:</b>
+</p>
+
+<p>
+A) India and China<br>
+B) USA and Soviet Union<br>
+C) Japan and Germany<br>
+D) France and Britain
+</p>
+
+<p>
+<b>✅ Answer: B) USA and Soviet Union</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 3 -->
+<!-- THEORIES OF INTERNATIONAL RELATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>📚 Major Theories of International Relations</h3>
+
+<h3>(అంతర్జాతీయ సంబంధాల ముఖ్య సిద్ధాంతాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+International Relations theories provide different perspectives to understand the behaviour of states, global conflicts and cooperation among nations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ సంబంధాల సిద్ధాంతాలు దేశాల ప్రవర్తన, ప్రపంచ వివాదాలు మరియు దేశాల మధ్య సహకారాన్ని అర్థం చేసుకోవడానికి వివిధ దృక్పథాలను అందిస్తాయి.
+</p>
+
+<hr>
+
+<h3>1️⃣ Realism</h3>
+
+<h3>(వాస్తవవాదం)</h3>
+
+<p>
+<b>English:</b><br>
+Realism considers power and national interest as the central elements of international politics.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ రాజకీయాలలో శక్తి మరియు జాతీయ ప్రయోజనాలు ప్రధానమైనవిగా భావించే సిద్ధాంతం వాస్తవవాదం.
+</p>
+
+<h4>Key Ideas:</h4>
+
+<ul>
+
+<li>State is the main actor</li>
+
+<li>National interest is primary</li>
+
+<li>Power determines relations</li>
+
+<li>Security competition exists among states</li>
+
+</ul>
+
+<h4>Important Thinkers:</h4>
+
+<ul>
+
+<li>Hans Morgenthau</li>
+
+<li>Thucydides</li>
+
+</ul>
+
+<p>
+<b>Example:</b><br>
+Countries increasing defence capabilities to protect national security.
+</p>
+
+<hr>
+
+<h3>2️⃣ Liberalism</h3>
+
+<h3>(ఉదారవాదం)</h3>
+
+<p>
+<b>English:</b><br>
+Liberalism believes that cooperation among states is possible through international institutions, democracy and economic interdependence.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ సంస్థలు, ప్రజాస్వామ్యం మరియు ఆర్థిక పరస్పర ఆధారితత్వం ద్వారా దేశాల మధ్య సహకారం సాధ్యమని ఉదారవాదం నమ్ముతుంది.
+</p>
+
+<h4>Key Ideas:</h4>
+
+<ul>
+
+<li>International cooperation</li>
+
+<li>Role of international organisations</li>
+
+<li>Importance of trade</li>
+
+<li>Peace through democracy</li>
+
+</ul>
+
+<h4>Important Thinkers:</h4>
+
+<ul>
+
+<li>Immanuel Kant</li>
+
+<li>Woodrow Wilson</li>
+
+</ul>
+
+<hr>
+
+<h3>3️⃣ Constructivism</h3>
+
+<h3>(నిర్మాణవాదం)</h3>
+
+<p>
+<b>English:</b><br>
+Constructivism argues that ideas, identities, beliefs and social factors shape international relations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఆలోచనలు, గుర్తింపులు, నమ్మకాలు మరియు సామాజిక అంశాలు అంతర్జాతీయ సంబంధాలను ప్రభావితం చేస్తాయని నిర్మాణవాదం చెబుతుంది.
+</p>
+
+<h4>Key Ideas:</h4>
+
+<ul>
+
+<li>Role of ideas and values</li>
+
+<li>Identity influences behaviour</li>
+
+<li>International reality is socially created</li>
+
+</ul>
+
+<h4>Important Thinker:</h4>
+
+<ul>
+
+<li>Alexander Wendt</li>
+
+</ul>
+
+<hr>
+
+<h3>4️⃣ Marxist Approach</h3>
+
+<h3>(మార్క్సిస్టు దృక్పథం)</h3>
+
+<p>
+<b>English:</b><br>
+Marxist theory focuses on economic inequality, capitalism and the role of economic power in global relations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచ సంబంధాలలో ఆర్థిక అసమానతలు, పెట్టుబడిదారీ వ్యవస్థ మరియు ఆర్థిక శక్తి పాత్రపై మార్క్సిస్టు సిద్ధాంతం దృష్టి పెడుతుంది.
+</p>
+
+<hr>
+
+<h3>📊 Comparison of IR Theories</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Theory</th>
+<th>Main Focus</th>
+</tr>
+
+<tr>
+<td>Realism</td>
+<td>Power and national interest</td>
+</tr>
+
+<tr>
+<td>Liberalism</td>
+<td>Cooperation and institutions</td>
+</tr>
+
+<tr>
+<td>Constructivism</td>
+<td>Ideas and identities</td>
+</tr>
+
+<tr>
+<td>Marxism</td>
+<td>Economic power and inequality</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🇮🇳 Application for India</h3>
+
+<ul>
+
+<li>Realism → Strategic security and national interest</li>
+
+<li>Liberalism → International cooperation and institutions</li>
+
+<li>Constructivism → India's cultural diplomacy and soft power</li>
+
+<li>Marxism → Understanding global economic inequalities</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 IR Theory Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Realism → Power  
+<br>
+Liberalism → Cooperation  
+<br>
+Constructivism → Ideas  
+<br>
+Marxism → Economy  
+
+<br><br>
+
+= Understanding World Politics
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Realism focuses on:</b>
+</p>
+
+<p>
+A) Power and national interest<br>
+B) Culture only<br>
+C) Technology only<br>
+D) Environment only
+</p>
+
+<p>
+<b>✅ Answer: A) Power and national interest</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Constructivism emphasises:</b>
+</p>
+
+<p>
+A) Military power only<br>
+B) Ideas and identities<br>
+C) Trade only<br>
+D) Geography only
+</p>
+
+<p>
+<b>✅ Answer: B) Ideas and identities</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 4 -->
+<!-- NATIONAL INTEREST -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇮🇳 National Interest</h3>
+
+<h3>(జాతీయ ప్రయోజనం)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+National interest is the foundation of a country's foreign policy. Every state aims to protect and promote its interests while interacting with other countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+జాతీయ ప్రయోజనం ఒక దేశ విదేశాంగ విధానానికి పునాది. ప్రతి దేశం ఇతర దేశాలతో సంబంధాలు కొనసాగించేటప్పుడు తన ప్రయోజనాలను రక్షించుకోవడానికి మరియు అభివృద్ధి చేసుకోవడానికి ప్రయత్నిస్తుంది.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of National Interest</h3>
+
+<p>
+<b>English:</b><br>
+National interest refers to the goals, objectives and priorities that a nation seeks to achieve for its security, prosperity and development.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఒక దేశం భద్రత, అభివృద్ధి మరియు సంక్షేమం కోసం సాధించాలనుకునే లక్ష్యాలు మరియు ప్రాధాన్యతలను జాతీయ ప్రయోజనం అంటారు.
+</p>
+
+<hr>
+
+<h3>⭐ Elements of National Interest</h3>
+
+<hr>
+
+<h3>1️⃣ National Security</h3>
+
+<p>
+<b>English:</b><br>
+Protection of territorial integrity, sovereignty and citizens from external threats.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశ సార్వభౌమత్వం, భౌగోళిక సమగ్రత మరియు ప్రజల భద్రతను కాపాడటం.
+</p>
+
+<hr>
+
+<h3>2️⃣ Economic Development</h3>
+
+<p>
+<b>English:</b><br>
+Promotion of trade, investment, technology and economic growth.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, పెట్టుబడులు, సాంకేతికత మరియు ఆర్థిక వృద్ధిని ప్రోత్సహించడం.
+</p>
+
+<hr>
+
+<h3>3️⃣ Strategic Influence</h3>
+
+<p>
+<b>English:</b><br>
+Increasing a country's influence and position in global affairs.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచ వ్యవహారాలలో దేశ ప్రభావాన్ని మరియు స్థానాన్ని పెంచడం.
+</p>
+
+<hr>
+
+<h3>4️⃣ Energy Security</h3>
+
+<p>
+<b>English:</b><br>
+Ensuring continuous availability of energy resources.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+నిరంతర ఇంధన వనరుల లభ్యతను నిర్ధారించడం.
+</p>
+
+<hr>
+
+<h3>5️⃣ Cultural and Ideological Interests</h3>
+
+<p>
+<b>English:</b><br>
+Promoting national values, culture and global image.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశ విలువలు, సంస్కృతి మరియు ప్రపంచ ప్రతిష్టను ప్రోత్సహించడం.
+</p>
+
+<hr>
+
+<h3>🏛️ Importance of National Interest</h3>
+
+<ul>
+
+<li>Guides foreign policy decisions</li>
+
+<li>Protects sovereignty</li>
+
+<li>Helps in international negotiations</li>
+
+<li>Ensures national development</li>
+
+<li>Strengthens global position</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 India's National Interest</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Area</th>
+<th>India's Focus</th>
+</tr>
+
+<tr>
+<td>Security</td>
+<td>Border protection and strategic stability</td>
+</tr>
+
+<tr>
+<td>Economy</td>
+<td>Trade, investment and growth</td>
+</tr>
+
+<tr>
+<td>Diplomacy</td>
+<td>Strategic partnerships</td>
+</tr>
+
+<tr>
+<td>Energy</td>
+<td>Energy supply security</td>
+</tr>
+
+<tr>
+<td>Global Role</td>
+<td>Greater participation in world affairs</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>📖 Example</h3>
+
+<p>
+<b>Situation:</b><br>
+A country signs trade agreements while ensuring its domestic industries are protected.
+</p>
+
+<p>
+<b>IR Perspective:</b></p>
+
+<ul>
+
+<li>Economic growth is promoted</li>
+
+<li>National interests are protected</li>
+
+<li>International cooperation increases</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 National Interest Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Security  
++<br>
+Economic Growth  
++<br>
+Strategic Influence  
++<br>
+Sovereignty  
+
+<br><br>
+
+= National Interest
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. National interest mainly guides:</b>
+</p>
+
+<p>
+A) Foreign policy<br>
+B) Local elections<br>
+C) Personal decisions<br>
+D) Social customs
+</p>
+
+<p>
+<b>✅ Answer: A) Foreign policy</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. National security is a part of:</b>
+</p>
+
+<p>
+A) National interest<br>
+B) Private interest<br>
+C) Cultural event<br>
+D) Personal ambition
+</p>
+
+<p>
+<b>✅ Answer: A) National interest</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 5 -->
+<!-- FOREIGN POLICY -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇮🇳 Foreign Policy</h3>
+
+<h3>(విదేశాంగ విధానం)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Foreign policy is the strategy and approach adopted by a country to manage its relations with other countries and international organisations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఇతర దేశాలు మరియు అంతర్జాతీయ సంస్థలతో సంబంధాలను నిర్వహించడానికి ఒక దేశం అనుసరించే వ్యూహం మరియు విధానాన్ని విదేశాంగ విధానం అంటారు.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of Foreign Policy</h3>
+
+<p>
+<b>English:</b><br>
+Foreign policy refers to the goals, principles and actions through which a state interacts with the external world.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచంలోని ఇతర దేశాలతో ఒక దేశం ఎలా వ్యవహరించాలి అనే లక్ష్యాలు, సూత్రాలు మరియు చర్యలను విదేశాంగ విధానం సూచిస్తుంది.
+</p>
+
+<hr>
+
+<h3>⭐ Objectives of Foreign Policy</h3>
+
+<hr>
+
+<h3>1️⃣ Protection of National Interest</h3>
+
+<p>
+<b>English:</b><br>
+The primary objective of foreign policy is to protect security, sovereignty and development interests.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భద్రత, సార్వభౌమత్వం మరియు అభివృద్ధి ప్రయోజనాలను రక్షించడం విదేశాంగ విధానం యొక్క ప్రధాన లక్ష్యం.
+</p>
+
+<hr>
+
+<h3>2️⃣ Maintaining International Peace</h3>
+
+<p>
+<b>English:</b><br>
+Countries use diplomacy and cooperation to prevent conflicts and maintain peace.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దౌత్యం మరియు సహకారం ద్వారా వివాదాలను తగ్గించి శాంతిని కాపాడటం.
+</p>
+
+<hr>
+
+<h3>3️⃣ Economic Growth</h3>
+
+<p>
+<b>English:</b><br>
+Foreign policy promotes trade, investment and technological cooperation.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, పెట్టుబడులు మరియు సాంకేతిక సహకారాన్ని పెంచడం.
+</p>
+
+<hr>
+
+<h3>4️⃣ Strengthening Global Position</h3>
+
+<p>
+<b>English:</b><br>
+Countries seek greater influence in international affairs.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచ వ్యవహారాలలో దేశ ప్రభావాన్ని పెంచుకోవడం.
+</p>
+
+<hr>
+
+<h3>🌐 Determinants of Foreign Policy</h3>
+
+<h3>(విదేశాంగ విధానాన్ని ప్రభావితం చేసే అంశాలు)</h3>
+
+<hr>
+
+<h4>1️⃣ Geography</h4>
+
+<p>
+<b>English:</b><br>
+Location, borders and natural resources influence foreign policy decisions.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భౌగోళిక స్థానం, సరిహద్దులు మరియు సహజ వనరులు విదేశాంగ విధానాన్ని ప్రభావితం చేస్తాయి.
+</p>
+
+<hr>
+
+<h4>2️⃣ History and Culture</h4>
+
+<p>
+Past experiences and cultural values shape international behaviour.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+చరిత్ర మరియు సాంస్కృతిక విలువలు విదేశాంగ విధానంపై ప్రభావం చూపుతాయి.
+</p>
+
+<hr>
+
+<h4>3️⃣ Economic Strength</h4>
+
+<p>
+Economic capacity determines international influence.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఆర్థిక సామర్థ్యం అంతర్జాతీయ ప్రభావాన్ని నిర్ణయిస్తుంది.
+</p>
+
+<hr>
+
+<h4>4️⃣ Military Capability</h4>
+
+<p>
+Defence strength affects strategic decisions.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+రక్షణ సామర్థ్యం వ్యూహాత్మక నిర్ణయాలను ప్రభావితం చేస్తుంది.
+</p>
+
+<hr>
+
+<h4>5️⃣ Leadership</h4>
+
+<p>
+Leaders' vision and decision-making influence foreign policy.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+నాయకుల దృష్టికోణం మరియు నిర్ణయాలు విదేశాంగ విధానాన్ని ప్రభావితం చేస్తాయి.
+</p>
+
+<hr>
+
+<h3>🇮🇳 India's Foreign Policy Principles</h3>
+
+<ul>
+
+<li>Peaceful coexistence</li>
+
+<li>Non-alignment</li>
+
+<li>Respect for sovereignty</li>
+
+<li>Anti-colonialism</li>
+
+<li>International cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 Foreign Policy Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+National Interest  
++<br>
+Diplomacy  
++<br>
+Strategic Vision  
++<br>
+International Cooperation  
+
+<br><br>
+
+= Effective Foreign Policy
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Foreign policy deals with:</b>
+</p>
+
+<p>
+A) External relations of a country<br>
+B) Personal relationships<br>
+C) Local administration<br>
+D) Family matters
+</p>
+
+<p>
+<b>✅ Answer: A) External relations of a country</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Geography is a determinant of:</b>
+</p>
+
+<p>
+A) Foreign policy<br>
+B) Personal behaviour<br>
+C) Education system only<br>
+D) Culture only
+</p>
+
+<p>
+<b>✅ Answer: A) Foreign policy</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 6 -->
+<!-- DIPLOMACY -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🤝 Diplomacy</h3>
+
+<h3>(దౌత్యం)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Diplomacy is the peaceful method through which countries communicate, negotiate and manage their relations with each other.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాలు పరస్పరం సంభాషించుకోవడం, చర్చలు జరపడం మరియు సంబంధాలను నిర్వహించుకోవడానికి ఉపయోగించే శాంతియుత విధానాన్ని దౌత్యం అంటారు.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of Diplomacy</h3>
+
+<p>
+<b>English:</b><br>
+Diplomacy is the art and practice of conducting negotiations between representatives of states.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాల ప్రతినిధుల మధ్య చర్చలు మరియు సంబంధాలను నిర్వహించే కళ మరియు విధానాన్ని దౌత్యం అంటారు.
+</p>
+
+<hr>
+
+<h3>⭐ Objectives of Diplomacy</h3>
+
+<hr>
+
+<h4>1️⃣ Protect National Interests</h4>
+
+<p>
+Diplomacy helps countries achieve their goals without conflict.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వివాదాలు లేకుండా దేశ ప్రయోజనాలను సాధించడానికి దౌత్యం సహాయపడుతుంది.
+</p>
+
+<hr>
+
+<h4>2️⃣ Maintain Peace</h4>
+
+<p>
+Diplomatic negotiations help prevent wars and conflicts.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దౌత్య చర్చలు యుద్ధాలు మరియు వివాదాలను నివారించడంలో సహాయపడతాయి.
+</p>
+
+<hr>
+
+<h4>3️⃣ Promote Economic Relations</h4>
+
+<p>
+Diplomacy encourages trade, investment and economic cooperation.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, పెట్టుబడులు మరియు ఆర్థిక సహకారాన్ని పెంచుతుంది.
+</p>
+
+<hr>
+
+<h4>4️⃣ Build International Cooperation</h4>
+
+<p>
+Countries cooperate through diplomatic channels on global issues.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచ సమస్యలపై దేశాల మధ్య సహకారాన్ని పెంచుతుంది.
+</p>
+
+<hr>
+
+<h3>🌐 Types of Diplomacy</h3>
+
+<hr>
+
+<h4>1️⃣ Bilateral Diplomacy</h4>
+
+<p>
+<b>English:</b><br>
+Relations and negotiations between two countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+రెండు దేశాల మధ్య జరిగే దౌత్య సంబంధాలు.
+</p>
+
+<p>
+<b>Example:</b> India–Japan relations</p>
+
+<hr>
+
+<h4>2️⃣ Multilateral Diplomacy</h4>
+
+<p>
+<b>English:</b><br>
+Diplomatic interaction involving multiple countries through international organisations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అనేక దేశాలు కలిసి అంతర్జాతీయ సంస్థల ద్వారా నిర్వహించే దౌత్యం.
+</p>
+
+<p>
+<b>Example:</b> United Nations meetings</p>
+
+<hr>
+
+<h4>3️⃣ Summit Diplomacy</h4>
+
+<p>
+<b>English:</b><br>
+Direct meetings between heads of states or governments.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాధినేతలు లేదా ప్రభుత్వాధినేతల మధ్య జరిగే ప్రత్యక్ష చర్చలు.
+</p>
+
+<hr>
+
+<h4>4️⃣ Public Diplomacy</h4>
+
+<p>
+<b>English:</b><br>
+Communication with foreign populations to improve a country's image.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఇతర దేశాల ప్రజలతో సంబంధాలు పెంచి దేశ ప్రతిష్టను మెరుగుపరచడం.
+</p>
+
+<hr>
+
+<h3>🛠️ Tools of Diplomacy</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Tool</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
+<td>Negotiation</td>
+<td>Finding peaceful solutions</td>
+</tr>
+
+<tr>
+<td>Treaties</td>
+<td>Formal agreements</td>
+</tr>
+
+<tr>
+<td>Dialogue</td>
+<td>Communication between states</td>
+</tr>
+
+<tr>
+<td>Cultural Exchange</td>
+<td>Building goodwill</td>
+</tr>
+
+<tr>
+<td>Economic Cooperation</td>
+<td>Strengthening relations</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🇮🇳 Diplomacy in India's Foreign Policy</h3>
+
+<ul>
+
+<li>Peaceful resolution of disputes</li>
+
+<li>Strategic partnerships</li>
+
+<li>Neighbourhood cooperation</li>
+
+<li>Global cooperation</li>
+
+<li>Promotion of Indian culture</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 Diplomacy Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Communication  
++<br>
+Negotiation  
++<br>
+Cooperation  
++<br>
+Peaceful Approach  
+
+<br><br>
+
+= Successful Diplomacy
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Diplomacy is mainly used for:</b>
+</p>
+
+<p>
+A) Peaceful international relations<br>
+B) Military attacks<br>
+C) Domestic elections<br>
+D) Economic isolation
+</p>
+
+<p>
+<b>✅ Answer: A) Peaceful international relations</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Bilateral diplomacy involves:</b>
+</p>
+
+<p>
+A) Two countries<br>
+B) One country only<br>
+C) All countries<br>
+D) Private companies only
+</p>
+
+<p>
+<b>✅ Answer: A) Two countries</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 7 -->
+<!-- HARD POWER & SOFT POWER -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>💪 Hard Power & 🌱 Soft Power</h3>
+
+<h3>(కఠిన శక్తి మరియు సాఫ్ట్ పవర్)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Countries use different forms of power to influence other nations. Power in international relations can be classified mainly into Hard Power and Soft Power.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాలు ఇతర దేశాలపై ప్రభావం చూపడానికి వివిధ రకాల శక్తులను ఉపయోగిస్తాయి. అంతర్జాతీయ సంబంధాలలో శక్తిని ప్రధానంగా Hard Power మరియు Soft Power గా విభజిస్తారు.
+</p>
+
+<hr>
+
+<h3>💪 Hard Power</h3>
+
+<h3>(కఠిన శక్తి)</h3>
+
+<p>
+<b>English:</b><br>
+Hard Power refers to the use of military strength and economic pressure to influence other countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సైనిక శక్తి మరియు ఆర్థిక ఒత్తిడి ద్వారా ఇతర దేశాలపై ప్రభావం చూపడాన్ని Hard Power అంటారు.
+</p>
+
+<h4>Components of Hard Power:</h4>
+
+<ul>
+
+<li>Military capability</li>
+
+<li>Economic strength</li>
+
+<li>Sanctions</li>
+
+<li>Strategic resources</li>
+
+</ul>
+
+<h4>Examples:</h4>
+
+<ul>
+
+<li>Military alliances</li>
+
+<li>Economic restrictions</li>
+
+<li>Defence capabilities</li>
+
+</ul>
+
+<hr>
+
+<h3>🌱 Soft Power</h3>
+
+<h3>(సాఫ్ట్ పవర్)</h3>
+
+<p>
+<b>English:</b><br>
+Soft Power is the ability of a country to influence others through attraction rather than force.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+బలవంతం కాకుండా ఆకర్షణ ద్వారా ఇతర దేశాలపై ప్రభావం చూపే సామర్థ్యాన్ని Soft Power అంటారు.
+</p>
+
+<h4>Components of Soft Power:</h4>
+
+<ul>
+
+<li>Culture</li>
+
+<li>Values</li>
+
+<li>Diplomacy</li>
+
+<li>Education</li>
+
+<li>Technology</li>
+
+<li>International image</li>
+
+</ul>
+
+<hr>
+
+<h3>⚖️ Difference Between Hard Power and Soft Power</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Hard Power</th>
+<th>Soft Power</th>
+</tr>
+
+<tr>
+<td>Based on force</td>
+<td>Based on attraction</td>
+</tr>
+
+<tr>
+<td>Military and economic tools</td>
+<td>Culture and values</td>
+</tr>
+
+<tr>
+<td>Creates pressure</td>
+<td>Creates influence</td>
+</tr>
+
+<tr>
+<td>Immediate impact</td>
+<td>Long-term impact</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🇮🇳 India's Soft Power</h3>
+
+<p>
+<b>English:</b><br>
+India uses its culture, traditions, democracy and global contributions to increase its international influence.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారతదేశం తన సంస్కృతి, సంప్రదాయాలు, ప్రజాస్వామ్యం మరియు ప్రపంచానికి చేసిన సేవల ద్వారా అంతర్జాతీయ ప్రభావాన్ని పెంచుకుంటుంది.
+</p>
+
+<hr>
+
+<h3>⭐ Sources of India's Soft Power</h3>
+
+<ul>
+
+<li>🧘 Yoga</li>
+
+<li>🎬 Indian Cinema</li>
+
+<li>🍛 Indian Cuisine</li>
+
+<li>📚 Knowledge and Education</li>
+
+<li>🌍 Indian Diaspora</li>
+
+<li>🕊️ Democratic values</li>
+
+<li>🎨 Art and Culture</li>
+
+</ul>
+
+<hr>
+
+<h3>🏛️ Importance of Soft Power</h3>
+
+<ul>
+
+<li>Improves international image</li>
+
+<li>Builds friendly relations</li>
+
+<li>Supports diplomacy</li>
+
+<li>Creates global influence</li>
+
+<li>Promotes cultural understanding</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 Power Formula in IR</h3>
+
+<div class="highlight">
+
+<p>
+
+Hard Power  
+(Military + Economy)
+
+<br><br>
+
++
+
+<br><br>
+
+Soft Power  
+(Culture + Values + Diplomacy)
+
+<br><br>
+
+=
+
+<br><br>
+
+Smart Power
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Soft Power is based on:</b>
+</p>
+
+<p>
+A) Attraction and influence<br>
+B) Military attack<br>
+C) Economic sanctions only<br>
+D) War
+</p>
+
+<p>
+<b>✅ Answer: A) Attraction and influence</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Yoga is an example of:</b>
+</p>
+
+<p>
+A) Hard Power<br>
+B) Soft Power<br>
+C) Military Power<br>
+D) Nuclear Power
+</p>
+
+<p>
+<b>✅ Answer: B) Soft Power</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 8 -->
+<!-- INTERNATIONAL ORGANISATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🏛️ International Organisations</h3>
+
+<h3>(అంతర్జాతీయ సంస్థలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+International organisations are institutions created by countries to promote cooperation, maintain peace and address global challenges.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+శాంతిని కాపాడటం, సహకారాన్ని పెంచడం మరియు ప్రపంచ సమస్యలను పరిష్కరించడానికి దేశాలు కలిసి ఏర్పాటు చేసిన సంస్థలను అంతర్జాతీయ సంస్థలు అంటారు.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of International Organisations</h3>
+
+<p>
+<b>English:</b><br>
+These organisations provide a platform where countries discuss common issues and take collective decisions.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాలు సాధారణ సమస్యలపై చర్చించి, కలిసి నిర్ణయాలు తీసుకునే వేదికలను అంతర్జాతీయ సంస్థలు అందిస్తాయి.
+</p>
+
+<hr>
+
+<h3>⭐ Types of International Organisations</h3>
+
+<hr>
+
+<h3>1️⃣ Global Organisations</h3>
+
+<p>
+<b>English:</b><br>
+Organisations with worldwide membership and global objectives.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచవ్యాప్తంగా సభ్యత్వం కలిగి, ప్రపంచ స్థాయి లక్ష్యాలతో పనిచేసే సంస్థలు.
+</p>
+
+<p>
+<b>Example:</b> United Nations (UN)</p>
+
+<hr>
+
+<h3>2️⃣ Regional Organisations</h3>
+
+<p>
+<b>English:</b><br>
+Organisations formed by countries belonging to a particular region.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఒక నిర్దిష్ట ప్రాంతానికి చెందిన దేశాలు కలిసి ఏర్పాటు చేసిన సంస్థలు.
+</p>
+
+<p>
+<b>Examples:</b></p>
+
+<ul>
+
+<li>SAARC</li>
+
+<li>ASEAN</li>
+
+<li>European Union</li>
+
+</ul>
+
+<hr>
+
+<h3>3️⃣ Economic Organisations</h3>
+
+<p>
+<b>English:</b><br>
+Institutions focusing on trade, finance and economic cooperation.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, ఆర్థిక సహకారం మరియు అభివృద్ధిపై దృష్టి పెట్టే సంస్థలు.
+</p>
+
+<p>
+<b>Examples:</b></p>
+
+<ul>
+
+<li>World Bank</li>
+
+<li>IMF</li>
+
+<li>WTO</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 Major International Organisations</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Organisation</th>
+<th>Main Purpose</th>
+</tr>
+
+<tr>
+<td>United Nations (UN)</td>
+<td>Peace and security</td>
+</tr>
+
+<tr>
+<td>World Bank</td>
+<td>Development assistance</td>
+</tr>
+
+<tr>
+<td>IMF</td>
+<td>Global financial stability</td>
+</tr>
+
+<tr>
+<td>WTO</td>
+<td>International trade</td>
+</tr>
+
+<tr>
+<td>WHO</td>
+<td>Global health cooperation</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🏛️ Role of International Organisations</h3>
+
+<ul>
+
+<li>Maintaining international peace</li>
+
+<li>Resolving conflicts</li>
+
+<li>Promoting economic cooperation</li>
+
+<li>Protecting human rights</li>
+
+<li>Addressing global challenges</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 Importance for India</h3>
+
+<ul>
+
+<li>Platform for global diplomacy</li>
+
+<li>Support for development goals</li>
+
+<li>Participation in decision-making</li>
+
+<li>Protection of national interests</li>
+
+<li>Increasing global influence</li>
+
+</ul>
+
+<hr>
+
+<h3>📖 Example</h3>
+
+<p>
+<b>Situation:</b><br>
+Countries cooperate through international organisations to fight climate change.
+</p>
+
+<p>
+<b>IR Perspective:</b></p>
+
+<ul>
+
+<li>Global cooperation increases</li>
+
+<li>Common solutions are developed</li>
+
+<li>International relations improve</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 International Organisation Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Common Problems  
++<br>
+Collective Action  
++<br>
+International Cooperation  
+
+<br><br>
+
+= Global Governance
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. International organisations mainly promote:</b>
+</p>
+
+<p>
+A) Cooperation among countries<br>
+B) Isolation of countries<br>
+C) Internal politics<br>
+D) Military conflicts
+</p>
+
+<p>
+<b>✅ Answer: A) Cooperation among countries</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. WTO is related to:</b>
+</p>
+
+<p>
+A) International trade<br>
+B) Military security<br>
+C) Space research only<br>
+D) Cultural activities
+</p>
+
+<p>
+<b>✅ Answer: A) International trade</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 9 -->
+<!-- UNITED NATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇺🇳 United Nations (UN)</h3>
+
+<h3>(ఐక్యరాజ్యసమితి)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+The United Nations is the most important international organisation established to maintain international peace, security and cooperation among nations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ శాంతి, భద్రత మరియు దేశాల మధ్య సహకారాన్ని ప్రోత్సహించడానికి ఏర్పాటు చేసిన అత్యంత ముఖ్యమైన అంతర్జాతీయ సంస్థ ఐక్యరాజ్యసమితి.
+</p>
+
+<hr>
+
+<h3>📜 Establishment of United Nations</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Aspect</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Established</td>
+<td>24 October 1945</td>
+</tr>
+
+<tr>
+<td>Background</td>
+<td>After the Second World War</td>
+</tr>
+
+<tr>
+<td>Headquarters</td>
+<td>New York, USA</td>
+</tr>
+
+<tr>
+<td>Original Members</td>
+<td>51 countries</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>⭐ Objectives of United Nations</h3>
+
+<ul>
+
+<li>Maintain international peace and security</li>
+
+<li>Develop friendly relations among nations</li>
+
+<li>Promote international cooperation</li>
+
+<li>Protect human rights</li>
+
+<li>Support social and economic development</li>
+
+</ul>
+
+<hr>
+
+<h3>🏛️ Principal Organs of UN</h3>
+
+<hr>
+
+<h3>1️⃣ General Assembly</h3>
+
+<p>
+<b>English:</b><br>
+The main deliberative body where all member countries participate.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అన్ని సభ్య దేశాలు పాల్గొనే ప్రధాన చర్చా వేదిక.
+</p>
+
+<hr>
+
+<h3>2️⃣ Security Council</h3>
+
+<p>
+<b>English:</b><br>
+Responsible for maintaining international peace and security.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ శాంతి మరియు భద్రతను కాపాడే బాధ్యత కలిగిన సంస్థ.
+</p>
+
+<h4>Permanent Members (P5):</h4>
+
+<ul>
+
+<li>United States</li>
+
+<li>Russia</li>
+
+<li>China</li>
+
+<li>France</li>
+
+<li>United Kingdom</li>
+
+</ul>
+
+<hr>
+
+<h3>3️⃣ Economic and Social Council (ECOSOC)</h3>
+
+<p>
+Focuses on economic, social and development issues.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఆర్థిక, సామాజిక మరియు అభివృద్ధి అంశాలపై దృష్టి పెడుతుంది.
+</p>
+
+<hr>
+
+<h3>4️⃣ International Court of Justice (ICJ)</h3>
+
+<p>
+<b>English:</b><br>
+The principal judicial organ of the UN that settles legal disputes between states.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాల మధ్య న్యాయ వివాదాలను పరిష్కరించే ఐక్యరాజ్యసమితి ప్రధాన న్యాయ సంస్థ.
+</p>
+
+<hr>
+
+<h3>5️⃣ Secretariat</h3>
+
+<p>
+Administrative body headed by the Secretary-General.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సెక్రటరీ జనరల్ ఆధ్వర్యంలో పనిచేసే పరిపాలనా విభాగం.
+</p>
+
+<hr>
+
+<h3>🌐 Important UN Agencies</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Agency</th>
+<th>Area</th>
+</tr>
+
+<tr>
+<td>WHO</td>
+<td>Global Health</td>
+</tr>
+
+<tr>
+<td>UNESCO</td>
+<td>Education, Science and Culture</td>
+</tr>
+
+<tr>
+<td>UNICEF</td>
+<td>Child Welfare</td>
+</tr>
+
+<tr>
+<td>FAO</td>
+<td>Food and Agriculture</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🇮🇳 India's Role in UN</h3>
+
+<ul>
+
+<li>Founding member of UN</li>
+
+<li>Active participation in peacekeeping missions</li>
+
+<li>Support for international cooperation</li>
+
+<li>Advocacy for reforms in UN Security Council</li>
+
+<li>Promotion of developing countries' interests</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 UN Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Peace  
++<br>
+Security  
++<br>
+Cooperation  
++<br>
+Development  
+
+<br><br>
+
+= United Nations Mission
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. United Nations was established in:</b>
+</p>
+
+<p>
+A) 1945<br>
+B) 1950<br>
+C) 1960<br>
+D) 1975
+</p>
+
+<p>
+<b>✅ Answer: A) 1945</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. UN Security Council has how many permanent members?</b>
+</p>
+
+<p>
+A) 3<br>
+B) 5<br>
+C) 7<br>
+D) 10
+</p>
+
+<p>
+<b>✅ Answer: B) 5</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 10 -->
+<!-- UN REFORMS & SECURITY COUNCIL -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇺🇳 UN Reforms & Security Council</h3>
+
+<h3>(ఐక్యరాజ్యసమితి సంస్కరణలు & భద్రతా మండలి)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+The United Nations was created after World War II. However, changes in global power distribution have created demands for reforms, especially in the UN Security Council.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+రెండవ ప్రపంచ యుద్ధం తర్వాత ఐక్యరాజ్యసమితి ఏర్పడింది. కానీ ప్రపంచ శక్తి సమతుల్యతలో వచ్చిన మార్పుల కారణంగా ముఖ్యంగా భద్రతా మండలిలో సంస్కరణల అవసరం ఏర్పడింది.
+</p>
+
+<hr>
+
+<h3>🏛️ UN Security Council (UNSC)</h3>
+
+<p>
+<b>English:</b><br>
+The Security Council is the most powerful organ of the United Nations responsible for maintaining international peace and security.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ శాంతి మరియు భద్రతను కాపాడే బాధ్యత కలిగిన ఐక్యరాజ్యసమితి యొక్క అత్యంత శక్తివంతమైన అవయవం భద్రతా మండలి.
+</p>
+
+<hr>
+
+<h3>📌 Structure of UNSC</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Category</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Total Members</td>
+<td>15 Members</td>
+</tr>
+
+<tr>
+<td>Permanent Members (P5)</td>
+<td>5 Countries</td>
+</tr>
+
+<tr>
+<td>Non-Permanent Members</td>
+<td>10 Countries</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>⭐ Veto Power</h3>
+
+<p>
+<b>English:</b><br>
+Permanent members of the Security Council have the power to block important resolutions through veto.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భద్రతా మండలిలోని శాశ్వత సభ్య దేశాలకు ముఖ్యమైన తీర్మానాలను అడ్డుకునే వీటో అధికారం ఉంటుంది.
+</p>
+
+<h4>P5 Countries:</h4>
+
+<ul>
+
+<li>United States</li>
+
+<li>Russia</li>
+
+<li>China</li>
+
+<li>France</li>
+
+<li>United Kingdom</li>
+
+</ul>
+
+<hr>
+
+<h3>❓ Need for UN Reforms</h3>
+
+<ul>
+
+<li>Present structure reflects 1945 power balance</li>
+
+<li>Developing countries need greater representation</li>
+
+<li>Global challenges require wider participation</li>
+
+<li>Improves legitimacy of UN decisions</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 India's Demand for Permanent Membership</h3>
+
+<p>
+<b>English:</b><br>
+India has been demanding permanent membership in the UN Security Council based on its population, democratic system, economic growth and contribution to global peace.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారతదేశం తన జనాభా, ప్రజాస్వామ్య వ్యవస్థ, ఆర్థిక అభివృద్ధి మరియు ప్రపంచ శాంతికి చేసిన సేవల ఆధారంగా భద్రతా మండలిలో శాశ్వత సభ్యత్వాన్ని కోరుతోంది.
+</p>
+
+<hr>
+
+<h3>⭐ Arguments Supporting India's Membership</h3>
+
+<ul>
+
+<li>Largest democracy in the world</li>
+
+<li>Major contributor to UN peacekeeping</li>
+
+<li>Growing economic power</li>
+
+<li>Responsible nuclear power</li>
+
+<li>Represents developing countries</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Challenges for UN Reform</h3>
+
+<ul>
+
+<li>Opposition from some permanent members</li>
+
+<li>Difficulty in changing UN Charter</li>
+
+<li>Different views among countries</li>
+
+<li>Regional representation issues</li>
+
+</ul>
+
+<hr>
+
+<h3>📊 UNSC Reform Summary</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Issue</th>
+<th>Demand</th>
+</tr>
+
+<tr>
+<td>Representation</td>
+<td>More countries in UNSC</td>
+</tr>
+
+<tr>
+<td>Veto Power</td>
+<td>Reconsideration of veto system</td>
+</tr>
+
+<tr>
+<td>Legitimacy</td>
+<td>More democratic functioning</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🔥 UN Reform Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+New Global Reality  
++<br>
+Equal Representation  
++<br>
+Effective Decision Making  
+
+<br><br>
+
+= Stronger United Nations
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. UNSC permanent members have:</b>
+</p>
+
+<p>
+A) Veto power<br>
+B) Trade power<br>
+C) Judicial power only<br>
+D) Economic control
+</p>
+
+<p>
+<b>✅ Answer: A) Veto power</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. India seeks permanent membership in:</b>
+</p>
+
+<p>
+A) UN Security Council<br>
+B) WTO only<br>
+C) IMF only<br>
+D) WHO only
+</p>
+
+<p>
+<b>✅ Answer: A) UN Security Council</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 11 -->
+<!-- GLOBALISATION -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🌐 Globalisation</h3>
+
+<h3>(ప్రపంచీకరణ)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Globalisation is the process of increasing interconnectedness among countries through trade, technology, investment, communication and cultural exchange.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, సాంకేతికత, పెట్టుబడులు, సమాచార మార్పిడి మరియు సాంస్కృతిక సంబంధాల ద్వారా దేశాలు పరస్పరం అనుసంధానమవుతున్న ప్రక్రియను ప్రపంచీకరణ అంటారు.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of Globalisation</h3>
+
+<p>
+<b>English:</b><br>
+Globalisation reduces barriers between countries and creates a more integrated world economy and society.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచీకరణ దేశాల మధ్య అడ్డంకులను తగ్గించి ప్రపంచ ఆర్థిక వ్యవస్థను మరియు సమాజాన్ని మరింత అనుసంధానం చేస్తుంది.
+</p>
+
+<hr>
+
+<h3>⭐ Features of Globalisation</h3>
+
+<ul>
+
+<li>🌍 Increased global trade</li>
+
+<li>💻 Growth of technology</li>
+
+<li>💰 International investment</li>
+
+<li>📡 Faster communication</li>
+
+<li>🌐 Cultural exchange</li>
+
+<li>🏢 Growth of multinational companies</li>
+
+</ul>
+
+<hr>
+
+<h3>📈 Dimensions of Globalisation</h3>
+
+<hr>
+
+<h4>1️⃣ Economic Globalisation</h4>
+
+<p>
+<b>English:</b><br>
+Integration of national economies through trade, investment and financial flows.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, పెట్టుబడులు మరియు ఆర్థిక ప్రవాహాల ద్వారా దేశాల ఆర్థిక వ్యవస్థల అనుసంధానం.
+</p>
+
+<hr>
+
+<h4>2️⃣ Political Globalisation</h4>
+
+<p>
+Countries cooperate through international institutions and agreements.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ సంస్థలు మరియు ఒప్పందాల ద్వారా దేశాల మధ్య రాజకీయ సహకారం.
+</p>
+
+<hr>
+
+<h4>3️⃣ Cultural Globalisation</h4>
+
+<p>
+Exchange of ideas, traditions, languages and lifestyles.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఆలోచనలు, సంప్రదాయాలు మరియు జీవన విధానాల పరస్పర మార్పిడి.
+</p>
+
+<hr>
+
+<h3>✅ Positive Impacts of Globalisation</h3>
+
+<ul>
+
+<li>Economic growth</li>
+
+<li>Access to technology</li>
+
+<li>More employment opportunities</li>
+
+<li>Better international cooperation</li>
+
+<li>Improved communication</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Negative Impacts of Globalisation</h3>
+
+<ul>
+
+<li>Economic inequality</li>
+
+<li>Threat to local industries</li>
+
+<li>Cultural changes</li>
+
+<li>Environmental concerns</li>
+
+<li>Dependence on global markets</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 Globalisation and India</h3>
+
+<p>
+<b>English:</b><br>
+India adopted economic reforms in 1991 which increased integration with the global economy.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారతదేశం 1991 ఆర్థిక సంస్కరణల తర్వాత ప్రపంచ ఆర్థిక వ్యవస్థతో మరింత అనుసంధానమైంది.
+</p>
+
+<hr>
+
+<h3>⭐ Impact on India</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Area</th>
+<th>Impact</th>
+</tr>
+
+<tr>
+<td>Economy</td>
+<td>Increase in trade and investment</td>
+</tr>
+
+<tr>
+<td>Technology</td>
+<td>Growth of IT sector</td>
+</tr>
+
+<tr>
+<td>Employment</td>
+<td>New opportunities</td>
+</tr>
+
+<tr>
+<td>Society</td>
+<td>Cultural exchange</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🏛️ Role of Global Institutions</h3>
+
+<ul>
+
+<li>WTO promotes international trade</li>
+
+<li>IMF supports financial stability</li>
+
+<li>World Bank supports development</li>
+
+<li>UN promotes global cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 Globalisation Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Trade  
++<br>
+Technology  
++<br>
+Investment  
++<br>
+Communication  
+
+<br><br>
+
+= Global Interdependence
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Globalisation mainly increases:</b>
+</p>
+
+<p>
+A) Interconnection among countries<br>
+B) Isolation of countries<br>
+C) Local conflicts only<br>
+D) Barriers between nations
+</p>
+
+<p>
+<b>✅ Answer: A) Interconnection among countries</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. India introduced major economic reforms in:</b>
+</p>
+
+<p>
+A) 1991<br>
+B) 1975<br>
+C) 2000<br>
+D) 1980
+</p>
+
+<p>
+<b>✅ Answer: A) 1991</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 12 -->
+<!-- REGIONAL ORGANISATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🌏 Regional Organisations</h3>
+
+<h3>(ప్రాంతీయ అంతర్జాతీయ సంస్థలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Regional organisations are groups formed by countries of a particular geographical region to promote cooperation, economic development and regional security.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఒక నిర్దిష్ట ప్రాంతానికి చెందిన దేశాలు ఆర్థిక అభివృద్ధి, సహకారం మరియు ప్రాంతీయ భద్రత కోసం ఏర్పాటు చేసుకున్న సంస్థలను ప్రాంతీయ సంస్థలు అంటారు.
+</p>
+
+<hr>
+
+<h3>🇦🇺 1️⃣ SAARC</h3>
+
+<h3>(South Asian Association for Regional Cooperation)</h3>
+
+<p>
+<b>Established:</b> 1985
+</p>
+
+<p>
+<b>Headquarters:</b> Kathmandu, Nepal
+</p>
+
+<p>
+<b>Members:</b> 8 South Asian countries
+</p>
+
+<hr>
+
+<h4>Objectives of SAARC:</h4>
+
+<ul>
+
+<li>Promote economic cooperation</li>
+
+<li>Improve social development</li>
+
+<li>Strengthen regional relations</li>
+
+<li>Promote peace and stability</li>
+
+</ul>
+
+<h4>Challenges:</h4>
+
+<ul>
+
+<li>India-Pakistan tensions</li>
+
+<li>Slow decision-making</li>
+
+<li>Limited economic integration</li>
+
+</ul>
+
+<hr>
+
+<h3>🌏 2️⃣ ASEAN</h3>
+
+<h3>(Association of Southeast Asian Nations)</h3>
+
+<p>
+<b>Established:</b> 1967
+</p>
+
+<p>
+<b>Headquarters:</b> Jakarta, Indonesia
+</p>
+
+<p>
+<b>Region:</b> Southeast Asia
+</p>
+
+<hr>
+
+<h4>Objectives:</h4>
+
+<ul>
+
+<li>Economic growth</li>
+
+<li>Regional peace</li>
+
+<li>Political cooperation</li>
+
+<li>Cultural development</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 India and ASEAN</h3>
+
+<p>
+<b>English:</b><br>
+India follows the Act East Policy to strengthen economic and strategic relations with ASEAN countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఆసియాన్ దేశాలతో ఆర్థిక మరియు వ్యూహాత్మక సంబంధాలను బలోపేతం చేయడానికి భారత్ Act East Policy ను అనుసరిస్తుంది.
+</p>
+
+<hr>
+
+<h3>🌐 3️⃣ BIMSTEC</h3>
+
+<h3>(Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)</h3>
+
+<p>
+<b>Established:</b> 1997
+</p>
+
+<p>
+<b>Region:</b> Bay of Bengal Region
+</p>
+
+<hr>
+
+<h4>Member Countries:</h4>
+
+<ul>
+
+<li>Bangladesh</li>
+
+<li>Bhutan</li>
+
+<li>India</li>
+
+<li>Myanmar</li>
+
+<li>Nepal</li>
+
+<li>Sri Lanka</li>
+
+<li>Thailand</li>
+
+</ul>
+
+<hr>
+
+<h4>Areas of Cooperation:</h4>
+
+<ul>
+
+<li>Trade and investment</li>
+
+<li>Transport connectivity</li>
+
+<li>Energy cooperation</li>
+
+<li>Security cooperation</li>
+
+<li>Technology</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 Importance of Regional Organisations for India</h3>
+
+<ul>
+
+<li>Neighbourhood cooperation</li>
+
+<li>Economic opportunities</li>
+
+<li>Regional security</li>
+
+<li>Connectivity development</li>
+
+<li>Greater global influence</li>
+
+</ul>
+
+<hr>
+
+<h3>📊 Comparison Table</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Organisation</th>
+<th>Region</th>
+</tr>
+
+<tr>
+<td>SAARC</td>
+<td>South Asia</td>
+</tr>
+
+<tr>
+<td>ASEAN</td>
+<td>Southeast Asia</td>
+</tr>
+
+<tr>
+<td>BIMSTEC</td>
+<td>Bay of Bengal Region</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🔥 Regional Cooperation Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Common Region  
++<br>
+Shared Interests  
++<br>
+Economic Cooperation  
+
+<br><br>
+
+= Regional Integration
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. SAARC was established in:</b>
+</p>
+
+<p>
+A) 1985<br>
+B) 1991<br>
+C) 2000<br>
+D) 1975
+</p>
+
+<p>
+<b>✅ Answer: A) 1985</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. BIMSTEC focuses on:</b>
+</p>
+
+<p>
+A) Bay of Bengal cooperation<br>
+B) European integration<br>
+C) Military alliance only<br>
+D) Space research only
+</p>
+
+<p>
+<b>✅ Answer: A) Bay of Bengal cooperation</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 13 -->
+<!-- INDIA'S FOREIGN POLICY -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇮🇳 India's Foreign Policy</h3>
+
+<h3>(భారత విదేశాంగ విధానం)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+India's foreign policy represents the principles, objectives and strategies adopted by India to manage its relations with other countries and protect national interests.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఇతర దేశాలతో సంబంధాలను నిర్వహించడానికి మరియు జాతీయ ప్రయోజనాలను రక్షించడానికి భారత్ అనుసరించే సూత్రాలు, లక్ష్యాలు మరియు వ్యూహాలను భారత విదేశాంగ విధానం అంటారు.
+</p>
+
+<hr>
+
+<h3>📜 Evolution of India's Foreign Policy</h3>
+
+<hr>
+
+<h3>1️⃣ Early Phase (1947–1962)</h3>
+
+<p>
+<b>English:</b><br>
+India focused on peace, non-alignment, anti-colonialism and peaceful coexistence after independence.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+స్వాతంత్ర్యం తర్వాత భారత్ శాంతి, అలీన విధానం, వలసవాద వ్యతిరేకత మరియు శాంతియుత సహజీవనంపై దృష్టి పెట్టింది.
+</p>
+
+<hr>
+
+<h3>2️⃣ Post-1962 Phase</h3>
+
+<p>
+<b>English:</b><br>
+After the India-China war, India focused more on national security and strategic capabilities.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1962 భారత్-చైనా యుద్ధం తర్వాత భారత్ జాతీయ భద్రత మరియు వ్యూహాత్మక సామర్థ్యాలపై ఎక్కువ దృష్టి పెట్టింది.
+</p>
+
+<hr>
+
+<h3>3️⃣ Post-1991 Phase</h3>
+
+<p>
+<b>English:</b><br>
+Economic reforms increased India's engagement with the global economy.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1991 ఆర్థిక సంస్కరణల తర్వాత భారత్ ప్రపంచ ఆర్థిక వ్యవస్థతో అనుసంధానం పెంచుకుంది.
+</p>
+
+<hr>
+
+<h3>4️⃣ Contemporary Phase</h3>
+
+<p>
+<b>English:</b><br>
+India follows strategic partnerships, neighbourhood cooperation and global leadership.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రస్తుతం భారత్ వ్యూహాత్మక భాగస్వామ్యాలు, పొరుగు దేశాల సహకారం మరియు ప్రపంచ నాయకత్వంపై దృష్టి పెడుతుంది.
+</p>
+
+<hr>
+
+<h3>⭐ Principles of India's Foreign Policy</h3>
+
+<hr>
+
+<h4>1️⃣ Non-Alignment</h4>
+
+<p>
+<b>English:</b><br>
+India avoided joining military blocs and maintained independent decision-making.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ ఏ సైనిక కూటమిలో చేరకుండా స్వతంత్ర నిర్ణయాలను కొనసాగించింది.
+</p>
+
+<hr>
+
+<h4>2️⃣ Panchsheel Principles</h4>
+
+<p>
+<b>English:</b><br>
+The Five Principles of Peaceful Coexistence guide India's approach towards international relations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+శాంతియుత సహజీవనానికి సంబంధించిన పంచశీల సూత్రాలు భారత విదేశాంగ విధానానికి మార్గదర్శకాలు.
+</p>
+
+<h4>Five Principles:</h4>
+
+<ul>
+
+<li>Mutual respect for sovereignty</li>
+
+<li>Non-aggression</li>
+
+<li>Non-interference</li>
+
+<li>Equality and mutual benefit</li>
+
+<li>Peaceful coexistence</li>
+
+</ul>
+
+<hr>
+
+<h4>3️⃣ Support for Developing Countries</h4>
+
+<p>
+India supports cooperation among developing nations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అభివృద్ధి చెందుతున్న దేశాల సహకారానికి భారత్ మద్దతు ఇస్తుంది.
+</p>
+
+<hr>
+
+<h3>🌐 Key Features of India's Foreign Policy</h3>
+
+<ul>
+
+<li>Strategic autonomy</li>
+
+<li>Peaceful diplomacy</li>
+
+<li>Multilateral cooperation</li>
+
+<li>Economic diplomacy</li>
+
+<li>Global responsibility</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 India's Foreign Policy Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+National Interest  
++<br>
+Peace  
++<br>
+Strategic Autonomy  
++<br>
+Global Cooperation  
+
+<br><br>
+
+= India's Foreign Policy
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Panchsheel principles are related to:</b>
+</p>
+
+<p>
+A) Peaceful coexistence<br>
+B) Military expansion<br>
+C) Economic sanctions<br>
+D) Trade restrictions
+</p>
+
+<p>
+<b>✅ Answer: A) Peaceful coexistence</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. India's foreign policy principle of independent decision-making is:</b>
+</p>
+
+<p>
+A) Strategic autonomy<br>
+B) Isolation<br>
+C) Colonialism<br>
+D) Expansionism
+</p>
+
+<p>
+<b>✅ Answer: A) Strategic autonomy</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 14 -->
+<!-- NEIGHBOURHOOD FIRST POLICY -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇮🇳 Neighbourhood First Policy</h3>
+
+<h3>(పొరుగు దేశాలకు ప్రాధాన్యత విధానం)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Neighbourhood First Policy is India's approach of giving priority to friendly and cooperative relations with its neighbouring countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+పొరుగు దేశాలతో స్నేహపూర్వక మరియు సహకార సంబంధాలకు ప్రాధాన్యత ఇవ్వడం భారతదేశం యొక్క Neighbourhood First Policy.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of Neighbourhood First Policy</h3>
+
+<p>
+<b>English:</b><br>
+The policy focuses on improving connectivity, trade, security and people-to-people relations with neighbouring nations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఈ విధానం ద్వారా పొరుగు దేశాలతో అనుసంధానం, వాణిజ్యం, భద్రత మరియు ప్రజల మధ్య సంబంధాలను మెరుగుపరచడం లక్ష్యం.
+</p>
+
+<hr>
+
+<h3>⭐ Objectives of Neighbourhood First Policy</h3>
+
+<ul>
+
+<li>Strengthen regional cooperation</li>
+
+<li>Promote economic development</li>
+
+<li>Enhance connectivity</li>
+
+<li>Maintain regional security</li>
+
+<li>Build trust among neighbours</li>
+
+</ul>
+
+<hr>
+
+<h3>🌏 India's Relations with Neighbouring Countries</h3>
+
+<hr>
+
+<h3>🇧🇩 India–Bangladesh Relations</h3>
+
+<p>
+<b>English:</b><br>
+India and Bangladesh cooperate in trade, connectivity, security and cultural relations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మరియు బంగ్లాదేశ్ వాణిజ్యం, అనుసంధానం, భద్రత మరియు సాంస్కృతిక రంగాలలో సహకరిస్తున్నాయి.
+</p>
+
+<hr>
+
+<h3>🇳🇵 India–Nepal Relations</h3>
+
+<p>
+<b>English:</b><br>
+India shares close historical, cultural and economic relations with Nepal.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మరియు నేపాల్ మధ్య చారిత్రక, సాంస్కృతిక మరియు ఆర్థిక సంబంధాలు ఉన్నాయి.
+</p>
+
+<hr>
+
+<h3>🇧🇹 India–Bhutan Relations</h3>
+
+<p>
+<b>English:</b><br>
+India and Bhutan have strong cooperation in development, hydropower and security.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మరియు భూటాన్ అభివృద్ధి, జలవిద్యుత్ మరియు భద్రత రంగాలలో సహకరిస్తాయి.
+</p>
+
+<hr>
+
+<h3>🇱🇰 India–Sri Lanka Relations</h3>
+
+<p>
+<b>English:</b><br>
+Relations focus on trade, maritime security and cultural connections.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, సముద్ర భద్రత మరియు సాంస్కృతిక సంబంధాలపై దృష్టి ఉంటుంది.
+</p>
+
+<hr>
+
+<h3>🇲🇻 India–Maldives Relations</h3>
+
+<p>
+<b>English:</b><br>
+India cooperates with Maldives in security, development and disaster assistance.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మాల్దీవులతో భద్రత, అభివృద్ధి మరియు విపత్తు సహాయ రంగాలలో సహకరిస్తుంది.
+</p>
+
+<hr>
+
+<h3>🇲🇲 India–Myanmar Relations</h3>
+
+<p>
+<b>English:</b><br>
+Myanmar is important for India's connectivity and Act East Policy.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత అనుసంధానం మరియు Act East Policy కోసం మయన్మార్ ముఖ్యమైన దేశం.
+</p>
+
+<hr>
+
+<h3>⚠️ Challenges</h3>
+
+<ul>
+
+<li>Border disputes</li>
+
+<li>Security issues</li>
+
+<li>China's regional influence</li>
+
+<li>Trade imbalance</li>
+
+<li>Political instability in some countries</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 Neighbourhood First Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Trust  
++<br>
+Connectivity  
++<br>
+Trade  
++<br>
+Security Cooperation  
+
+<br><br>
+
+= Strong Neighbourhood Relations
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Neighbourhood First Policy focuses on:</b>
+</p>
+
+<p>
+A) Relations with neighbouring countries<br>
+B) Only European countries<br>
+C) Military expansion<br>
+D) Isolation policy
+</p>
+
+<p>
+<b>✅ Answer: A) Relations with neighbouring countries</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Act East Policy is connected with:</b>
+</p>
+
+<p>
+A) Southeast Asia relations<br>
+B) European Union only<br>
+C) African Union only<br>
+D) Domestic policy
+</p>
+
+<p>
+<b>✅ Answer: A) Southeast Asia relations</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 15 -->
+<!-- ACT EAST POLICY & INDO-PACIFIC STRATEGY -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🌏 Act East Policy & Indo-Pacific Strategy</h3>
+
+<h3>(యాక్ట్ ఈస్ట్ విధానం & ఇండో-పసిఫిక్ వ్యూహం)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+India's Act East Policy focuses on strengthening economic, strategic and cultural relations with Southeast Asian and East Asian countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దక్షిణ తూర్పు ఆసియా మరియు తూర్పు ఆసియా దేశాలతో ఆర్థిక, వ్యూహాత్మక మరియు సాంస్కృతిక సంబంధాలను బలోపేతం చేయడం భారతదేశం యొక్క Act East Policy లక్ష్యం.
+</p>
+
+<hr>
+
+<h3>📜 Evolution of India's East Policy</h3>
+
+<hr>
+
+<h3>1️⃣ Look East Policy (1991)</h3>
+
+<p>
+<b>English:</b><br>
+India introduced the Look East Policy to increase economic engagement with Southeast Asia after economic reforms.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1991 ఆర్థిక సంస్కరణల తర్వాత దక్షిణ తూర్పు ఆసియా దేశాలతో ఆర్థిక సంబంధాలను పెంచడానికి భారత్ Look East Policy ని ప్రారంభించింది.
+</p>
+
+<hr>
+
+<h3>2️⃣ Act East Policy (2014)</h3>
+
+<p>
+<b>English:</b><br>
+Act East Policy expanded the earlier approach by adding strategic and security cooperation along with economic relations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+Act East Policy ద్వారా ఆర్థిక సంబంధాలతో పాటు వ్యూహాత్మక మరియు భద్రతా సహకారానికి ప్రాధాన్యత ఇచ్చింది.
+</p>
+
+<hr>
+
+<h3>⭐ Objectives of Act East Policy</h3>
+
+<ul>
+
+<li>Improve connectivity with Southeast Asia</li>
+
+<li>Increase trade and investment</li>
+
+<li>Strengthen strategic partnerships</li>
+
+<li>Promote cultural relations</li>
+
+<li>Enhance regional security</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 Areas of Cooperation</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Area</th>
+<th>Focus</th>
+</tr>
+
+<tr>
+<td>Economic</td>
+<td>Trade and investment</td>
+</tr>
+
+<tr>
+<td>Connectivity</td>
+<td>Road, sea and digital links</td>
+</tr>
+
+<tr>
+<td>Security</td>
+<td>Maritime and defence cooperation</td>
+</tr>
+
+<tr>
+<td>Culture</td>
+<td>People-to-people relations</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🌊 Indo-Pacific Strategy</h3>
+
+<h3>(ఇండో-పసిఫిక్ వ్యూహం)</h3>
+
+<p>
+<b>English:</b><br>
+The Indo-Pacific refers to the combined geographical region of the Indian Ocean and Pacific Ocean where major economic and strategic activities take place.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఇండియన్ ఓషన్ మరియు పసిఫిక్ ఓషన్ ప్రాంతాలను కలిపిన వ్యూహాత్మక ప్రాంతాన్ని ఇండో-పసిఫిక్ అంటారు.
+</p>
+
+<hr>
+
+<h3>⭐ Importance of Indo-Pacific for India</h3>
+
+<ul>
+
+<li>Major trade routes</li>
+
+<li>Maritime security</li>
+
+<li>Energy transportation</li>
+
+<li>Regional stability</li>
+
+<li>Strategic partnerships</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 India's Vision for Indo-Pacific</h3>
+
+<p>
+<b>English:</b><br>
+India supports a free, open, inclusive and rules-based Indo-Pacific region.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ స్వేచ్ఛాయుత, తెరిచి ఉన్న, అందరికీ అనుకూలమైన మరియు నియమాల ఆధారిత ఇండో-పసిఫిక్ ప్రాంతానికి మద్దతు ఇస్తుంది.
+</p>
+
+<hr>
+
+<h3>🤝 QUAD and Indo-Pacific</h3>
+
+<p>
+<b>QUAD Members:</b></p>
+
+<ul>
+
+<li>India</li>
+
+<li>United States</li>
+
+<li>Japan</li>
+
+<li>Australia</li>
+
+</ul>
+
+<p>
+<b>Focus Areas:</b></p>
+
+<ul>
+
+<li>Maritime security</li>
+
+<li>Technology cooperation</li>
+
+<li>Supply chain resilience</li>
+
+<li>Regional cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 Act East Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Connectivity  
++<br>
+Commerce  
++<br>
+Culture  
++<br>
+Security  
+
+<br><br>
+
+= Act East Policy
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Act East Policy mainly focuses on:</b>
+</p>
+
+<p>
+A) Southeast and East Asia relations<br>
+B) Only European relations<br>
+C) Domestic administration<br>
+D) Military expansion
+</p>
+
+<p>
+<b>✅ Answer: A) Southeast and East Asia relations</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. QUAD includes:</b>
+</p>
+
+<p>
+A) India, USA, Japan, Australia<br>
+B) India, China, Russia, Japan<br>
+C) India, UK, France, Germany<br>
+D) India, Nepal, Bhutan, Sri Lanka
+</p>
+
+<p>
+<b>✅ Answer: A) India, USA, Japan, Australia</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 16 -->
+<!-- INDIA-CHINA RELATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇮🇳🇨🇳 India–China Relations</h3>
+
+<h3>(భారత్–చైనా సంబంధాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+India and China are two major Asian powers with historical, economic and strategic importance. Their relationship includes cooperation as well as areas of competition and disputes.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మరియు చైనా ఆసియాలోని రెండు ప్రధాన శక్తులు. వీటి సంబంధాలలో చారిత్రక, ఆర్థిక మరియు వ్యూహాత్మక సహకారంతో పాటు పోటీ మరియు వివాదాలు కూడా ఉన్నాయి.
+</p>
+
+<hr>
+
+<h3>📜 Historical Background</h3>
+
+<hr>
+
+<h3>1️⃣ Early Relations</h3>
+
+<p>
+<b>English:</b><br>
+India and China shared cultural links through Buddhism, trade and ancient exchanges.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+బౌద్ధం, వాణిజ్యం మరియు పురాతన సాంస్కృతిక మార్పిడి ద్వారా భారత్–చైనా మధ్య సంబంధాలు ఏర్పడ్డాయి.
+</p>
+
+<hr>
+
+<h3>2️⃣ Panchsheel Agreement (1954)</h3>
+
+<p>
+<b>English:</b><br>
+India and China agreed on the Five Principles of Peaceful Coexistence.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మరియు చైనా శాంతియుత సహజీవనానికి సంబంధించిన పంచశీల సూత్రాలను అంగీకరించాయి.
+</p>
+
+<h4>Five Principles:</h4>
+
+<ul>
+
+<li>Mutual respect for sovereignty</li>
+
+<li>Non-aggression</li>
+
+<li>Non-interference</li>
+
+<li>Equality and mutual benefit</li>
+
+<li>Peaceful coexistence</li>
+
+</ul>
+
+<hr>
+
+<h3>⚔️ 1962 India-China War</h3>
+
+<p>
+<b>English:</b><br>
+The border dispute between India and China resulted in the 1962 war, which significantly affected bilateral relations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సరిహద్దు వివాదాల కారణంగా 1962లో భారత్–చైనా యుద్ధం జరిగింది. ఇది రెండు దేశాల సంబంధాలపై పెద్ద ప్రభావం చూపింది.
+</p>
+
+<hr>
+
+<h3>🌐 Areas of Cooperation</h3>
+
+<ul>
+
+<li>Trade relations</li>
+
+<li>Multilateral cooperation</li>
+
+<li>Climate change discussions</li>
+
+<li>Global economic forums</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Major Issues in India-China Relations</h3>
+
+<hr>
+
+<h4>1️⃣ Border Dispute</h4>
+
+<p>
+<b>English:</b><br>
+The Line of Actual Control (LAC) remains a major issue between both countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+Line of Actual Control (LAC) సరిహద్దు రెండు దేశాల మధ్య ప్రధాన సమస్యగా ఉంది.
+</p>
+
+<hr>
+
+<h4>2️⃣ Trade Imbalance</h4>
+
+<p>
+<b>English:</b><br>
+India has concerns regarding the trade deficit with China.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+చైనాతో వాణిజ్య లోటు గురించి భారత్ ఆందోళన వ్యక్తం చేస్తుంది.
+</p>
+
+<hr>
+
+<h4>3️⃣ China-Pakistan Relations</h4>
+
+<p>
+China's close relations with Pakistan influence India's strategic calculations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+చైనా–పాకిస్తాన్ సన్నిహిత సంబంధాలు భారత వ్యూహాత్మక ఆలోచనలను ప్రభావితం చేస్తాయి.
+</p>
+
+<hr>
+
+<h4>4️⃣ Regional Competition</h4>
+
+<p>
+Both countries compete for influence in Asia.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఆసియాలో ప్రభావం కోసం రెండు దేశాల మధ్య పోటీ ఉంది.
+</p>
+
+<hr>
+
+<h3>🇮🇳 India's Approach Towards China</h3>
+
+<ul>
+
+<li>Dialogue and diplomacy</li>
+
+<li>Border management</li>
+
+<li>Economic caution</li>
+
+<li>Strategic partnerships</li>
+
+<li>Maintaining national security</li>
+
+</ul>
+
+<hr>
+
+<h3>📊 India-China Relations Summary</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Area</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>History</td>
+<td>Cultural connections</td>
+</tr>
+
+<tr>
+<td>Economy</td>
+<td>Trade partnership with challenges</td>
+</tr>
+
+<tr>
+<td>Security</td>
+<td>Border concerns</td>
+</tr>
+
+<tr>
+<td>Diplomacy</td>
+<td>Dialogue continues</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🔥 India-China Relations Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Cooperation  
++<br>
+Competition  
++<br>
+Strategic Balance  
+
+<br><br>
+
+= Complex Bilateral Relations
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Panchsheel Agreement was related to:</b>
+</p>
+
+<p>
+A) Peaceful coexistence<br>
+B) Military alliance<br>
+C) Trade restrictions<br>
+D) Nuclear treaty
+</p>
+
+<p>
+<b>✅ Answer: A) Peaceful coexistence</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. LAC is related to:</b>
+</p>
+
+<p>
+A) India-China border issue<br>
+B) Trade agreement<br>
+C) UN membership<br>
+D) Climate policy
+</p>
+
+<p>
+<b>✅ Answer: A) India-China border issue</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 17 -->
+<!-- INDIA-USA RELATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇮🇳🇺🇸 India–USA Relations</h3>
+
+<h3>(భారత్–అమెరికా సంబంధాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+India and the United States share a strategic partnership based on democracy, economic cooperation, defence collaboration and common global interests.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రజాస్వామ్యం, ఆర్థిక సహకారం, రక్షణ భాగస్వామ్యం మరియు సాధారణ ప్రపంచ ప్రయోజనాల ఆధారంగా భారత్–అమెరికా మధ్య వ్యూహాత్మక భాగస్వామ్యం ఉంది.
+</p>
+
+<hr>
+
+<h3>📜 Evolution of India-USA Relations</h3>
+
+<hr>
+
+<h3>1️⃣ Cold War Period</h3>
+
+<p>
+<b>English:</b><br>
+During the Cold War, India followed non-alignment while the USA was part of military alliances.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+శీతల యుద్ధ కాలంలో భారత్ అలీన విధానాన్ని అనుసరించగా, అమెరికా సైనిక కూటములలో భాగంగా ఉంది.
+</p>
+
+<hr>
+
+<h3>2️⃣ Post-1991 Phase</h3>
+
+<p>
+<b>English:</b><br>
+Economic reforms improved trade, investment and strategic relations between both countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1991 ఆర్థిక సంస్కరణల తర్వాత వాణిజ్యం, పెట్టుబడులు మరియు వ్యూహాత్మక సంబంధాలు మెరుగయ్యాయి.
+</p>
+
+<hr>
+
+<h3>3️⃣ Strategic Partnership</h3>
+
+<p>
+<b>English:</b><br>
+India and USA developed strong cooperation in defence, technology and global issues.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+రక్షణ, సాంకేతికత మరియు ప్రపంచ సమస్యలలో భారత్–అమెరికా సహకారం పెరిగింది.
+</p>
+
+<hr>
+
+<h3>🤝 Areas of Cooperation</h3>
+
+<hr>
+
+<h3>1️⃣ Defence Cooperation</h3>
+
+<ul>
+
+<li>Joint military exercises</li>
+
+<li>Defence technology cooperation</li>
+
+<li>Strategic security partnership</li>
+
+</ul>
+
+<p>
+<b>తెలుగు:</b><br>
+సంయుక్త సైనిక విన్యాసాలు, రక్షణ సాంకేతిక సహకారం మరియు భద్రతా భాగస్వామ్యం ప్రధాన అంశాలు.
+</p>
+
+<hr>
+
+<h3>2️⃣ Economic Relations</h3>
+
+<ul>
+
+<li>Trade and investment</li>
+
+<li>Business cooperation</li>
+
+<li>Technology partnerships</li>
+
+</ul>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, పెట్టుబడులు మరియు సాంకేతిక భాగస్వామ్యం ఆర్థిక సంబంధాలలో ముఖ్యమైనవి.
+</p>
+
+<hr>
+
+<h3>3️⃣ Science and Technology</h3>
+
+<p>
+<b>English:</b><br>
+Both countries cooperate in space, innovation, digital technology and research.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతరిక్షం, ఆవిష్కరణలు, డిజిటల్ టెక్నాలజీ మరియు పరిశోధన రంగాలలో సహకరిస్తాయి.
+</p>
+
+<hr>
+
+<h3>4️⃣ People-to-People Relations</h3>
+
+<ul>
+
+<li>Indian diaspora in USA</li>
+
+<li>Educational exchanges</li>
+
+<li>Cultural connections</li>
+
+</ul>
+
+<hr>
+
+<h3>⭐ Important Agreements & Initiatives</h3>
+
+<hr>
+
+<h4>1️⃣ Civil Nuclear Cooperation Agreement (2008)</h4>
+
+<p>
+<b>English:</b><br>
+The agreement strengthened cooperation in peaceful uses of nuclear energy.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+శాంతియుత అణు శక్తి వినియోగంలో సహకారాన్ని బలోపేతం చేసింది.
+</p>
+
+<hr>
+
+<h4>2️⃣ Defence Framework Agreement</h4>
+
+<p>
+Strengthened defence cooperation between both countries.
+</p>
+
+<hr>
+
+<h3>🌐 India-USA in Indo-Pacific</h3>
+
+<p>
+<b>English:</b><br>
+Both countries cooperate for a free, open and stable Indo-Pacific region.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+స్వేచ్ఛాయుత మరియు స్థిరమైన ఇండో-పసిఫిక్ ప్రాంతం కోసం రెండు దేశాలు సహకరిస్తున్నాయి.
+</p>
+
+<hr>
+
+<h3>⚠️ Challenges</h3>
+
+<ul>
+
+<li>Trade differences</li>
+
+<li>Different approaches on some global issues</li>
+
+<li>Visa and technology concerns</li>
+
+<li>Strategic differences</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 India-USA Relations Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Democracy  
++<br>
+Defence  
++<br>
+Economy  
++<br>
+Technology  
+
+<br><br>
+
+= Strategic Partnership
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. India-USA relations are based mainly on:</b>
+</p>
+
+<p>
+A) Strategic partnership<br>
+B) Military conflict<br>
+C) Isolation<br>
+D) Colonial relationship
+</p>
+
+<p>
+<b>✅ Answer: A) Strategic partnership</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Civil Nuclear Agreement between India and USA was signed in:</b>
+</p>
+
+<p>
+A) 2008<br>
+B) 1991<br>
+C) 1971<br>
+D) 2020
+</p>
+
+<p>
+<b>✅ Answer: A) 2008</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 18 -->
+<!-- INDIA-RUSSIA RELATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇮🇳🇷🇺 India–Russia Relations</h3>
+
+<h3>(భారత్–రష్యా సంబంధాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+India and Russia share a long-standing strategic partnership based on defence cooperation, diplomatic support, energy relations and mutual interests.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+రక్షణ సహకారం, దౌత్య మద్దతు, ఇంధన సంబంధాలు మరియు పరస్పర ప్రయోజనాల ఆధారంగా భారత్–రష్యా మధ్య దీర్ఘకాలిక వ్యూహాత్మక భాగస్వామ్యం ఉంది.
+</p>
+
+<hr>
+
+<h3>📜 Historical Background</h3>
+
+<hr>
+
+<h3>1️⃣ Cold War Period</h3>
+
+<p>
+<b>English:</b><br>
+During the Cold War, India and the Soviet Union developed close political and strategic relations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+శీతల యుద్ధ కాలంలో భారత్ మరియు సోవియట్ యూనియన్ మధ్య సన్నిహిత రాజకీయ మరియు వ్యూహాత్మక సంబంధాలు ఏర్పడ్డాయి.
+</p>
+
+<hr>
+
+<h3>2️⃣ Indo-Soviet Friendship Treaty (1971)</h3>
+
+<p>
+<b>English:</b><br>
+The treaty strengthened cooperation and strategic understanding between India and the Soviet Union.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1971 ఇండో–సోవియట్ స్నేహ ఒప్పందం రెండు దేశాల మధ్య సహకారం మరియు వ్యూహాత్మక సంబంధాలను బలోపేతం చేసింది.
+</p>
+
+<hr>
+
+<h3>3️⃣ Post-Soviet Era</h3>
+
+<p>
+<b>English:</b><br>
+After the dissolution of the Soviet Union, India continued its partnership with Russia.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సోవియట్ యూనియన్ విభజన తర్వాత కూడా భారత్ రష్యాతో తన భాగస్వామ్యాన్ని కొనసాగించింది.
+</p>
+
+<hr>
+
+<h3>🤝 Areas of Cooperation</h3>
+
+<hr>
+
+<h3>1️⃣ Defence Cooperation</h3>
+
+<p>
+<b>English:</b><br>
+Defence has been the strongest pillar of India-Russia relations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+రక్షణ రంగం భారత్–రష్యా సంబంధాలలో అత్యంత ముఖ్యమైన స్తంభం.
+</p>
+
+<ul>
+
+<li>Defence equipment cooperation</li>
+
+<li>Military technology</li>
+
+<li>Joint production initiatives</li>
+
+</ul>
+
+<hr>
+
+<h3>2️⃣ Energy Cooperation</h3>
+
+<p>
+<b>English:</b><br>
+Both countries cooperate in oil, gas and nuclear energy sectors.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+చమురు, సహజ వాయువు మరియు అణు శక్తి రంగాలలో రెండు దేశాలు సహకరిస్తాయి.
+</p>
+
+<hr>
+
+<h3>3️⃣ Space Cooperation</h3>
+
+<p>
+<b>English:</b><br>
+India and Russia have cooperated in space research and technology.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతరిక్ష పరిశోధన మరియు సాంకేతిక రంగాలలో భారత్–రష్యా సహకారం ఉంది.
+</p>
+
+<hr>
+
+<h3>4️⃣ Diplomatic Cooperation</h3>
+
+<ul>
+
+<li>Support in international forums</li>
+
+<li>Cooperation in multilateral organisations</li>
+
+<li>Regular strategic dialogue</li>
+
+</ul>
+
+<hr>
+
+<h3>⭐ Importance of Russia for India</h3>
+
+<ul>
+
+<li>Reliable defence partner</li>
+
+<li>Energy security partner</li>
+
+<li>Support in international diplomacy</li>
+
+<li>Strategic balance in global politics</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Challenges</h3>
+
+<ul>
+
+<li>Russia-China growing partnership</li>
+
+<li>Changing global power balance</li>
+
+<li>Trade limitations</li>
+
+<li>India's growing relations with other powers</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 India-Russia and Global Politics</h3>
+
+<p>
+<b>English:</b><br>
+India maintains its independent foreign policy while continuing cooperation with Russia.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ తన స్వతంత్ర విదేశాంగ విధానాన్ని కొనసాగిస్తూ రష్యాతో సహకారాన్ని కొనసాగిస్తుంది.
+</p>
+
+<hr>
+
+<h3>🔥 India-Russia Relations Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Trust  
++<br>
+Defence Cooperation  
++<br>
+Energy Partnership  
++<br>
+Strategic Interest  
+
+<br><br>
+
+= Long-Term Partnership
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Defence cooperation is a major pillar of:</b>
+</p>
+
+<p>
+A) India-Russia relations<br>
+B) India-Canada relations<br>
+C) India-Africa relations<br>
+D) India-Latin America relations
+</p>
+
+<p>
+<b>✅ Answer: A) India-Russia relations</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Indo-Soviet Friendship Treaty was signed in:</b>
+</p>
+
+<p>
+A) 1971<br>
+B) 1991<br>
+C) 2008<br>
+D) 1962
+</p>
+
+<p>
+<b>✅ Answer: A) 1971</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 19 -->
+<!-- INDIA-JAPAN RELATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇮🇳🇯🇵 India–Japan Relations</h3>
+
+<h3>(భారత్–జపాన్ సంబంధాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+India and Japan share a special strategic partnership based on economic cooperation, technology, infrastructure development and a common vision for a free and open Indo-Pacific.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఆర్థిక సహకారం, సాంకేతికత, మౌలిక సదుపాయాల అభివృద్ధి మరియు స్వేచ్ఛాయుత ఇండో-పసిఫిక్ దృక్పథం ఆధారంగా భారత్–జపాన్ మధ్య ప్రత్యేక వ్యూహాత్మక భాగస్వామ్యం ఉంది.
+</p>
+
+<hr>
+
+<h3>📜 Historical Background</h3>
+
+<hr>
+
+<h3>1️⃣ Cultural Relations</h3>
+
+<p>
+<b>English:</b><br>
+Buddhism created historical and cultural connections between India and Japan.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+బౌద్ధం భారత్ మరియు జపాన్ మధ్య చారిత్రక మరియు సాంస్కృతిక సంబంధాలను ఏర్పరిచింది.
+</p>
+
+<hr>
+
+<h3>2️⃣ Post World War Relations</h3>
+
+<p>
+<b>English:</b><br>
+Relations gradually expanded through economic cooperation and diplomatic engagement.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+రెండవ ప్రపంచ యుద్ధం తర్వాత ఆర్థిక సహకారం మరియు దౌత్య సంబంధాల ద్వారా సంబంధాలు విస్తరించాయి.
+</p>
+
+<hr>
+
+<h3>🤝 Areas of Cooperation</h3>
+
+<hr>
+
+<h3>1️⃣ Economic Cooperation</h3>
+
+<ul>
+
+<li>Trade and investment</li>
+
+<li>Industrial development</li>
+
+<li>Private sector cooperation</li>
+
+</ul>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, పెట్టుబడులు మరియు పారిశ్రామిక అభివృద్ధిలో జపాన్ ముఖ్యమైన భాగస్వామి.
+</p>
+
+<hr>
+
+<h3>2️⃣ Infrastructure Development</h3>
+
+<p>
+<b>English:</b><br>
+Japan supports infrastructure projects in India through technology and investment.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సాంకేతికత మరియు పెట్టుబడుల ద్వారా జపాన్ భారతదేశ మౌలిక సదుపాయాల అభివృద్ధికి సహాయం చేస్తుంది.
+</p>
+
+<ul>
+
+<li>High-speed rail projects</li>
+
+<li>Urban development</li>
+
+<li>Industrial corridors</li>
+
+</ul>
+
+<hr>
+
+<h3>3️⃣ Defence and Security Cooperation</h3>
+
+<ul>
+
+<li>Maritime security cooperation</li>
+
+<li>Joint military exercises</li>
+
+<li>Strategic dialogue</li>
+
+</ul>
+
+<p>
+<b>తెలుగు:</b><br>
+సముద్ర భద్రత మరియు రక్షణ రంగాలలో రెండు దేశాలు సహకరిస్తాయి.
+</p>
+
+<hr>
+
+<h3>🌊 India-Japan and Indo-Pacific</h3>
+
+<p>
+<b>English:</b><br>
+Both countries support a free, open and rules-based Indo-Pacific region.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+స్వేచ్ఛాయుత మరియు నియమాల ఆధారిత ఇండో-పసిఫిక్ ప్రాంతానికి భారత్ మరియు జపాన్ మద్దతు ఇస్తాయి.
+</p>
+
+<hr>
+
+<h3>🤝 Role in QUAD</h3>
+
+<p>
+<b>QUAD Members:</b></p>
+
+<ul>
+
+<li>India</li>
+
+<li>Japan</li>
+
+<li>United States</li>
+
+<li>Australia</li>
+
+</ul>
+
+<p>
+<b>Focus:</b></p>
+
+<ul>
+
+<li>Maritime security</li>
+
+<li>Regional stability</li>
+
+<li>Technology cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>⭐ Importance of Japan for India</h3>
+
+<ul>
+
+<li>Major investment partner</li>
+
+<li>Advanced technology partner</li>
+
+<li>Infrastructure support</li>
+
+<li>Strategic partner in Indo-Pacific</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Challenges</h3>
+
+<ul>
+
+<li>Limited trade volume compared to potential</li>
+
+<li>Different economic systems</li>
+
+<li>Regional security concerns</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 India-Japan Relations Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Technology  
++<br>
+Investment  
++<br>
+Security Cooperation  
++<br>
+Shared Values  
+
+<br><br>
+
+= Strategic Partnership
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. India-Japan relations are strengthened mainly through:</b>
+</p>
+
+<p>
+A) Technology and economic cooperation<br>
+B) Military conflict<br>
+C) Isolation policy<br>
+D) Trade restrictions
+</p>
+
+<p>
+<b>✅ Answer: A) Technology and economic cooperation</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. India and Japan are members of:</b>
+</p>
+
+<p>
+A) QUAD<br>
+B) NATO<br>
+C) SAARC only<br>
+D) OPEC
+</p>
+
+<p>
+<b>✅ Answer: A) QUAD</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 20 -->
+<!-- INDIA'S RELATIONS WITH NEIGHBOURING COUNTRIES -->
+<!-- ADVANCED ANALYSIS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🇮🇳 India's Relations with Neighbouring Countries</h3>
+
+<h3>(భారతదేశం – పొరుగు దేశాల సంబంధాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+India's neighbourhood policy focuses on maintaining peaceful relations, economic cooperation, connectivity and regional security with neighbouring countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత పొరుగు దేశాల విధానం శాంతియుత సంబంధాలు, ఆర్థిక సహకారం, అనుసంధానం మరియు ప్రాంతీయ భద్రతపై దృష్టి పెడుతుంది.
+</p>
+
+<hr>
+
+<h3>🇵🇰 India–Pakistan Relations</h3>
+
+<hr>
+
+<h3>📜 Historical Background</h3>
+
+<p>
+<b>English:</b><br>
+India and Pakistan share historical connections but relations have been affected by conflicts and security issues.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మరియు పాకిస్తాన్‌కు చారిత్రక సంబంధాలు ఉన్నప్పటికీ వివాదాలు మరియు భద్రతా సమస్యలు సంబంధాలను ప్రభావితం చేశాయి.
+</p>
+
+<hr>
+
+<h3>Major Issues:</h3>
+
+<ul>
+
+<li>Jammu and Kashmir issue</li>
+
+<li>Cross-border terrorism</li>
+
+<li>Water sharing issues</li>
+
+<li>Trade relations</li>
+
+</ul>
+
+<hr>
+
+<h3>Areas of Cooperation:</h3>
+
+<ul>
+
+<li>People-to-people contacts</li>
+
+<li>Cultural relations</li>
+
+<li>Regional cooperation through SAARC</li>
+
+</ul>
+
+<hr>
+
+<h3>🇳🇵 India–Nepal Relations</h3>
+
+<hr>
+
+<p>
+<b>English:</b><br>
+India and Nepal share deep historical, cultural and economic ties.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మరియు నేపాల్ మధ్య లోతైన చారిత్రక, సాంస్కృతిక మరియు ఆర్థిక సంబంధాలు ఉన్నాయి.
+</p>
+
+<hr>
+
+<h3>Key Features:</h3>
+
+<ul>
+
+<li>Open border arrangement</li>
+
+<li>Trade and economic cooperation</li>
+
+<li>Hydropower cooperation</li>
+
+<li>People-to-people relations</li>
+
+</ul>
+
+<hr>
+
+<h3>Challenges:</h3>
+
+<ul>
+
+<li>Border disputes</li>
+
+<li>Political changes</li>
+
+<li>External influence</li>
+
+</ul>
+
+<hr>
+
+<h3>🇧🇹 India–Bhutan Relations</h3>
+
+<hr>
+
+<p>
+<b>English:</b><br>
+India and Bhutan share one of the closest bilateral relationships based on trust and cooperation.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మరియు భూటాన్ మధ్య విశ్వాసం మరియు సహకారంపై ఆధారపడిన సన్నిహిత సంబంధాలు ఉన్నాయి.
+</p>
+
+<hr>
+
+<h3>Areas of Cooperation:</h3>
+
+<ul>
+
+<li>Hydropower projects</li>
+
+<li>Development assistance</li>
+
+<li>Security cooperation</li>
+
+<li>Educational relations</li>
+
+</ul>
+
+<hr>
+
+<h3>🇱🇰 India–Sri Lanka Relations</h3>
+
+<hr>
+
+<p>
+<b>English:</b><br>
+India and Sri Lanka share cultural, economic and maritime connections.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మరియు శ్రీలంక మధ్య సాంస్కృతిక, ఆర్థిక మరియు సముద్ర సంబంధాలు ఉన్నాయి.
+</p>
+
+<hr>
+
+<h3>Important Areas:</h3>
+
+<ul>
+
+<li>Trade cooperation</li>
+
+<li>Maritime security</li>
+
+<li>Fishermen issues</li>
+
+<li>Development assistance</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 Strategic Importance of Neighbourhood</h3>
+
+<ul>
+
+<li>Regional peace and stability</li>
+
+<li>Border security</li>
+
+<li>Economic connectivity</li>
+
+<li>Countering external influence</li>
+
+<li>Energy and trade cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>📊 Comparative Summary</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Country</th>
+<th>Main Focus</th>
+</tr>
+
+<tr>
+<td>Pakistan</td>
+<td>Security and peace issues</td>
+</tr>
+
+<tr>
+<td>Nepal</td>
+<td>Connectivity and cultural ties</td>
+</tr>
+
+<tr>
+<td>Bhutan</td>
+<td>Development and hydropower</td>
+</tr>
+
+<tr>
+<td>Sri Lanka</td>
+<td>Maritime and economic cooperation</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🔥 Neighbourhood Relations Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Trust  
++<br>
+Connectivity  
++<br>
+Economic Cooperation  
++<br>
+Security Balance  
+
+<br><br>
+
+= Stable Neighbourhood
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. SAARC is related to:</b>
+</p>
+
+<p>
+A) South Asian cooperation<br>
+B) European cooperation<br>
+C) Military alliance<br>
+D) Nuclear cooperation
+</p>
+
+<p>
+<b>✅ Answer: A) South Asian cooperation</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Hydropower cooperation is important in India’s relations with:</b>
+</p>
+
+<p>
+A) Bhutan<br>
+B) Japan<br>
+C) USA<br>
+D) France
+</p>
+
+<p>
+<b>✅ Answer: A) Bhutan</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 21 -->
+<!-- INTERNATIONAL SECURITY -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🛡️ International Security</h3>
+
+<h3>(అంతర్జాతీయ భద్రత)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+International security refers to measures taken by countries and international organisations to protect nations from threats and maintain global peace and stability.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాలను బెదిరింపుల నుండి రక్షించడం మరియు ప్రపంచ శాంతి, స్థిరత్వాన్ని కాపాడేందుకు దేశాలు మరియు అంతర్జాతీయ సంస్థలు తీసుకునే చర్యలను అంతర్జాతీయ భద్రత అంటారు.
+</p>
+
+<hr>
+
+<h3>📚 Dimensions of Security</h3>
+
+<p>
+Security has two major dimensions:
+</p>
+
+<ul>
+
+<li>Traditional Security</li>
+
+<li>Non-Traditional Security</li>
+
+</ul>
+
+<hr>
+
+<h3>⚔️ 1️⃣ Traditional Security</h3>
+
+<p>
+<b>English:</b><br>
+Traditional security focuses mainly on military threats and protection of national sovereignty.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సాంప్రదాయ భద్రత ప్రధానంగా సైనిక బెదిరింపులు మరియు జాతీయ సార్వభౌమత్వ రక్షణపై దృష్టి పెడుతుంది.
+</p>
+
+<hr>
+
+<h3>⭐ Features of Traditional Security</h3>
+
+<ul>
+
+<li>Military power</li>
+
+<li>Border protection</li>
+
+<li>National defence</li>
+
+<li>War prevention</li>
+
+<li>Nuclear security</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Traditional Security Threats</h3>
+
+<h4>1️⃣ War</h4>
+
+<p>
+Armed conflicts between countries are major security challenges.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాల మధ్య సాయుధ ఘర్షణలు ప్రధాన భద్రతా సవాళ్లు.
+</p>
+
+<hr>
+
+<h4>2️⃣ Terrorism</h4>
+
+<p>
+Terrorism uses violence to create fear and achieve political objectives.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+రాజకీయ లక్ష్యాలను సాధించడానికి హింసను ఉపయోగించే చర్యలను ఉగ్రవాదం అంటారు.
+</p>
+
+<hr>
+
+<h4>3️⃣ Nuclear Threats</h4>
+
+<p>
+Nuclear weapons create serious challenges to global security.
+</p>
+
+<hr>
+
+<h3>🌐 2️⃣ Non-Traditional Security</h3>
+
+<p>
+<b>English:</b><br>
+Non-traditional security includes threats that are not purely military but affect human life and global stability.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సైనికేతరమైనప్పటికీ మానవ జీవితం మరియు ప్రపంచ స్థిరత్వాన్ని ప్రభావితం చేసే బెదిరింపులను సాంప్రదాయేతర భద్రత అంటారు.
+</p>
+
+<hr>
+
+<h3>⭐ Non-Traditional Security Challenges</h3>
+
+<hr>
+
+<h4>1️⃣ Climate Change</h4>
+
+<ul>
+
+<li>Global warming</li>
+
+<li>Extreme weather events</li>
+
+<li>Environmental degradation</li>
+
+</ul>
+
+<hr>
+
+<h4>2️⃣ Pandemics</h4>
+
+<p>
+Global health crises can affect all countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచ ఆరోగ్య సంక్షోభాలు అన్ని దేశాలను ప్రభావితం చేయగలవు.
+</p>
+
+<hr>
+
+<h4>3️⃣ Cyber Security</h4>
+
+<ul>
+
+<li>Cyber attacks</li>
+
+<li>Data threats</li>
+
+<li>Digital crimes</li>
+
+</ul>
+
+<hr>
+
+<h4>4️⃣ Human Security</h4>
+
+<p>
+Focuses on protection of individuals from hunger, poverty, disease and violence.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఆకలి, పేదరికం, వ్యాధులు మరియు హింస నుండి వ్యక్తుల రక్షణపై దృష్టి పెడుతుంది.
+</p>
+
+<hr>
+
+<h3>📊 Traditional vs Non-Traditional Security</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Traditional</th>
+<th>Non-Traditional</th>
+</tr>
+
+<tr>
+<td>Military threats</td>
+<td>Human and global threats</td>
+</tr>
+
+<tr>
+<td>State-focused</td>
+<td>People-focused</td>
+</tr>
+
+<tr>
+<td>War and conflicts</td>
+<td>Climate, health, cyber issues</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🇮🇳 India's Security Approach</h3>
+
+<ul>
+
+<li>Strong defence capabilities</li>
+
+<li>Border management</li>
+
+<li>Counter-terrorism efforts</li>
+
+<li>Cyber security development</li>
+
+<li>International cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 Security Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Military Strength  
++<br>
+Human Development  
++<br>
+Global Cooperation  
+
+<br><br>
+
+= Comprehensive Security
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Traditional security mainly focuses on:</b>
+</p>
+
+<p>
+A) Military threats<br>
+B) Climate change only<br>
+C) Health issues only<br>
+D) Cultural exchange
+</p>
+
+<p>
+<b>✅ Answer: A) Military threats</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Cyber security is a part of:</b>
+</p>
+
+<p>
+A) Non-traditional security<br>
+B) Traditional security only<br>
+C) Military alliance<br>
+D) Economic policy
+</p>
+
+<p>
+<b>✅ Answer: A) Non-traditional security</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 22 -->
+<!-- NUCLEAR POLICY & INDIA'S NUCLEAR DOCTRINE -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>☢️ Nuclear Policy & India's Nuclear Doctrine</h3>
+
+<h3>(అణు విధానం & భారత అణు సిద్ధాంతం)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Nuclear policy refers to the principles and strategies adopted by a country regarding the development, possession and use of nuclear weapons.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అణు ఆయుధాల అభివృద్ధి, కలిగి ఉండటం మరియు వినియోగానికి సంబంధించి ఒక దేశం అనుసరించే సూత్రాలు మరియు వ్యూహాలను అణు విధానం అంటారు.
+</p>
+
+<hr>
+
+<h3>📜 India's Nuclear Journey</h3>
+
+<hr>
+
+<h3>1️⃣ Early Nuclear Programme</h3>
+
+<p>
+<b>English:</b><br>
+India developed its nuclear programme with a focus on peaceful uses of nuclear energy.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ తన అణు కార్యక్రమాన్ని ప్రధానంగా శాంతియుత అణు శక్తి వినియోగం కోసం అభివృద్ధి చేసింది.
+</p>
+
+<hr>
+
+<h3>2️⃣ Pokhran Nuclear Tests</h3>
+
+<h4>Pokhran-I (1974)</h4>
+
+<p>
+<b>English:</b><br>
+India conducted its first nuclear test in 1974, describing it as a peaceful nuclear explosion.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1974లో భారత్ తన మొదటి అణు పరీక్షను నిర్వహించింది. దీనిని శాంతియుత అణు పేలుడుగా పేర్కొంది.
+</p>
+
+<hr>
+
+<h4>Pokhran-II (1998)</h4>
+
+<p>
+<b>English:</b><br>
+India conducted a series of nuclear tests in 1998 and declared itself a nuclear weapon state.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1998లో భారత్ అణు పరీక్షలు నిర్వహించి తాను అణు ఆయుధ సామర్థ్యం కలిగిన దేశమని ప్రకటించింది.
+</p>
+
+<hr>
+
+<h3>⭐ India's Nuclear Doctrine</h3>
+
+<p>
+India's nuclear doctrine is based on responsible nuclear behaviour and minimum deterrence.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత అణు సిద్ధాంతం బాధ్యతాయుతమైన అణు ప్రవర్తన మరియు కనీస నిరోధక సామర్థ్యంపై ఆధారపడి ఉంటుంది.
+</p>
+
+<hr>
+
+<h3>📌 Key Principles of India's Nuclear Doctrine</h3>
+
+<hr>
+
+<h4>1️⃣ No First Use (NFU)</h4>
+
+<p>
+<b>English:</b><br>
+India maintains that it will not use nuclear weapons first but will respond if attacked with nuclear weapons.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ ముందుగా అణు ఆయుధాలను ఉపయోగించదని, కానీ అణు దాడి జరిగితే ప్రతిస్పందిస్తుందని ప్రకటించింది.
+</p>
+
+<hr>
+
+<h4>2️⃣ Credible Minimum Deterrence</h4>
+
+<p>
+<b>English:</b><br>
+India maintains only the required level of nuclear capability to prevent attacks.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దాడులను నిరోధించడానికి అవసరమైన కనీస అణు సామర్థ్యాన్ని భారత్ కొనసాగిస్తుంది.
+</p>
+
+<hr>
+
+<h4>3️⃣ Civilian Control</h4>
+
+<p>
+<b>English:</b><br>
+Nuclear weapons are under political leadership and responsible control.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అణు ఆయుధాల నియంత్రణ రాజకీయ నాయకత్వం ఆధీనంలో ఉంటుంది.
+</p>
+
+<hr>
+
+<h4>4️⃣ Peaceful Use of Nuclear Energy</h4>
+
+<ul>
+
+<li>Electricity generation</li>
+
+<li>Medical applications</li>
+
+<li>Scientific research</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 Global Nuclear Issues</h3>
+
+<ul>
+
+<li>Nuclear proliferation</li>
+
+<li>Arms race</li>
+
+<li>Nuclear disarmament</li>
+
+<li>Non-proliferation efforts</li>
+
+</ul>
+
+<hr>
+
+<h3>📚 Important International Treaties</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Treaty</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
+<td>NPT</td>
+<td>Prevent spread of nuclear weapons</td>
+</tr>
+
+<tr>
+<td>CTBT</td>
+<td>Ban nuclear testing</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🇮🇳 India's Position on Nuclear Disarmament</h3>
+
+<p>
+<b>English:</b><br>
+India supports universal, non-discriminatory and complete nuclear disarmament.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ సమానమైన మరియు వివక్ష రహిత సంపూర్ణ అణు నిరాయుధీకరణకు మద్దతు ఇస్తుంది.
+</p>
+
+<hr>
+
+<h3>🔥 Nuclear Policy Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Minimum Deterrence  
++<br>
+No First Use  
++<br>
+Responsible Control  
+
+<br><br>
+
+= India's Nuclear Doctrine
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. India's nuclear doctrine is based on:</b>
+</p>
+
+<p>
+A) Minimum deterrence<br>
+B) Nuclear expansion<br>
+C) First use policy<br>
+D) Isolation
+</p>
+
+<p>
+<b>✅ Answer: A) Minimum deterrence</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Pokhran-II nuclear tests were conducted in:</b>
+</p>
+
+<p>
+A) 1998<br>
+B) 1974<br>
+C) 2008<br>
+D) 1962
+</p>
+
+<p>
+<b>✅ Answer: A) 1998</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 23 -->
+<!-- GLOBAL ECONOMIC INSTITUTIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>💰 Global Economic Institutions</h3>
+
+<h3>(ప్రపంచ ఆర్థిక సంస్థలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Global economic institutions are international organisations that promote economic cooperation, financial stability, trade and development among countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+దేశాల మధ్య ఆర్థిక సహకారం, ఆర్థిక స్థిరత్వం, వాణిజ్యం మరియు అభివృద్ధిని ప్రోత్సహించే అంతర్జాతీయ సంస్థలను ప్రపంచ ఆర్థిక సంస్థలు అంటారు.
+</p>
+
+<hr>
+
+<h3>🌐 1️⃣ International Monetary Fund (IMF)</h3>
+
+<h3>(అంతర్జాతీయ ద్రవ్య నిధి)</h3>
+
+<hr>
+
+<p>
+<b>Established:</b> 1944
+</p>
+
+<p>
+<b>Headquarters:</b> Washington D.C., USA
+</p>
+
+<p>
+<b>Purpose:</b> Maintain global financial stability
+</p>
+
+<hr>
+
+<h3>⭐ Functions of IMF</h3>
+
+<ul>
+
+<li>Provides financial assistance to countries</li>
+
+<li>Monitors global economy</li>
+
+<li>Promotes monetary cooperation</li>
+
+<li>Supports economic reforms</li>
+
+</ul>
+
+<p>
+<b>తెలుగు:</b><br>
+IMF దేశాలకు ఆర్థిక సహాయం అందించడం, ప్రపంచ ఆర్థిక వ్యవస్థను పర్యవేక్షించడం మరియు ద్రవ్య సహకారాన్ని పెంచడం చేస్తుంది.
+</p>
+
+<hr>
+
+<h3>🌍 2️⃣ World Bank</h3>
+
+<h3>(ప్రపంచ బ్యాంకు)</h3>
+
+<hr>
+
+<p>
+<b>Established:</b> 1944
+</p>
+
+<p>
+<b>Purpose:</b> Development and poverty reduction
+</p>
+
+<hr>
+
+<h3>⭐ Functions of World Bank</h3>
+
+<ul>
+
+<li>Development loans</li>
+
+<li>Infrastructure support</li>
+
+<li>Poverty reduction programmes</li>
+
+<li>Education and health projects</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 3️⃣ World Trade Organization (WTO)</h3>
+
+<h3>(ప్రపంచ వాణిజ్య సంస్థ)</h3>
+
+<hr>
+
+<p>
+<b>Established:</b> 1995
+</p>
+
+<p>
+<b>Purpose:</b> Promote international trade
+</p>
+
+<hr>
+
+<h3>⭐ Functions of WTO</h3>
+
+<ul>
+
+<li>Creates trade rules</li>
+
+<li>Reduces trade barriers</li>
+
+<li>Resolves trade disputes</li>
+
+<li>Promotes fair trade</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 India's Role in Global Economic Institutions</h3>
+
+<hr>
+
+<h3>1️⃣ IMF and India</h3>
+
+<ul>
+
+<li>India is a member of IMF</li>
+
+<li>Participates in global financial discussions</li>
+
+<li>Supports reforms in global institutions</li>
+
+</ul>
+
+<hr>
+
+<h3>2️⃣ World Bank and India</h3>
+
+<ul>
+
+<li>Supports development projects</li>
+
+<li>Infrastructure development</li>
+
+<li>Social sector programmes</li>
+
+</ul>
+
+<hr>
+
+<h3>3️⃣ WTO and India</h3>
+
+<ul>
+
+<li>Promotes India's trade interests</li>
+
+<li>Raises issues of developing countries</li>
+
+<li>Supports fair agricultural trade rules</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Challenges of Global Economic Institutions</h3>
+
+<ul>
+
+<li>Dominance of developed countries</li>
+
+<li>Representation issues</li>
+
+<li>Conditional assistance concerns</li>
+
+<li>Need for reforms</li>
+
+</ul>
+
+<hr>
+
+<h3>📊 Comparison Table</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Institution</th>
+<th>Main Function</th>
+</tr>
+
+<tr>
+<td>IMF</td>
+<td>Financial stability</td>
+</tr>
+
+<tr>
+<td>World Bank</td>
+<td>Development assistance</td>
+</tr>
+
+<tr>
+<td>WTO</td>
+<td>International trade</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🔥 Global Economic Cooperation Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Finance  
++<br>
+Development  
++<br>
+Trade Cooperation  
+
+<br><br>
+
+= Global Economic Stability
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. WTO is related to:</b>
+</p>
+
+<p>
+A) International trade<br>
+B) Military security<br>
+C) Nuclear policy<br>
+D) Cultural exchange
+</p>
+
+<p>
+<b>✅ Answer: A) International trade</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. IMF mainly focuses on:</b>
+</p>
+
+<p>
+A) Global financial stability<br>
+B) Military cooperation<br>
+C) Cultural activities<br>
+D) Environmental protection only
+</p>
+
+<p>
+<b>✅ Answer: A) Global financial stability</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 24 -->
+<!-- CLIMATE CHANGE & GLOBAL ENVIRONMENTAL GOVERNANCE -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🌱 Climate Change & Global Environmental Governance</h3>
+
+<h3>(వాతావరణ మార్పు & ప్రపంచ పర్యావరణ పాలన)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Climate change has become one of the biggest global challenges affecting international relations, economic development and human security.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాతావరణ మార్పు అంతర్జాతీయ సంబంధాలు, ఆర్థిక అభివృద్ధి మరియు మానవ భద్రతపై ప్రభావం చూపుతున్న అతిపెద్ద ప్రపంచ సవాళ్లలో ఒకటి.
+</p>
+
+<hr>
+
+<h3>🌡️ Meaning of Climate Change</h3>
+
+<p>
+<b>English:</b><br>
+Climate change refers to long-term changes in Earth's climate patterns due to natural and human activities.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సహజ మరియు మానవ కార్యకలాపాల కారణంగా భూమి వాతావరణ నమూనాలలో దీర్ఘకాలిక మార్పులను వాతావరణ మార్పు అంటారు.
+</p>
+
+<hr>
+
+<h3>⭐ Causes of Climate Change</h3>
+
+<ul>
+
+<li>Greenhouse gas emissions</li>
+
+<li>Burning of fossil fuels</li>
+
+<li>Deforestation</li>
+
+<li>Industrial activities</li>
+
+<li>Unsustainable development</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Impacts of Climate Change</h3>
+
+<hr>
+
+<h4>1️⃣ Environmental Impact</h4>
+
+<ul>
+
+<li>Global warming</li>
+
+<li>Sea level rise</li>
+
+<li>Extreme weather events</li>
+
+<li>Loss of biodiversity</li>
+
+</ul>
+
+<hr>
+
+<h4>2️⃣ Economic Impact</h4>
+
+<ul>
+
+<li>Agricultural losses</li>
+
+<li>Infrastructure damage</li>
+
+<li>Resource conflicts</li>
+
+</ul>
+
+<hr>
+
+<h4>3️⃣ Human Security Impact</h4>
+
+<ul>
+
+<li>Food insecurity</li>
+
+<li>Water scarcity</li>
+
+<li>Climate migration</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 Global Environmental Governance</h3>
+
+<p>
+<b>English:</b><br>
+Global environmental governance refers to international cooperation and institutions working to address environmental challenges.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+పర్యావరణ సమస్యలను పరిష్కరించడానికి దేశాలు మరియు అంతర్జాతీయ సంస్థలు కలిసి చేసే సహకారాన్ని ప్రపంచ పర్యావరణ పాలన అంటారు.
+</p>
+
+<hr>
+
+<h3>🏛️ Important International Initiatives</h3>
+
+<hr>
+
+<h4>1️⃣ United Nations Framework Convention on Climate Change (UNFCCC)</h4>
+
+<p>
+<b>Purpose:</b> International framework to address climate change.
+</p>
+
+<hr>
+
+<h4>2️⃣ Kyoto Protocol (1997)</h4>
+
+<p>
+<b>Purpose:</b> Reduce greenhouse gas emissions.
+</p>
+
+<hr>
+
+<h4>3️⃣ Paris Agreement (2015)</h4>
+
+<p>
+<b>English:</b><br>
+A global agreement to limit global temperature rise and promote climate action.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచ ఉష్ణోగ్రత పెరుగుదలను నియంత్రించడానికి మరియు వాతావరణ చర్యలను ప్రోత్సహించడానికి రూపొందించిన ఒప్పందం.
+</p>
+
+<hr>
+
+<h3>🇮🇳 India's Climate Policy</h3>
+
+<ul>
+
+<li>Promotion of renewable energy</li>
+
+<li>International Solar Alliance</li>
+
+<li>Sustainable development goals</li>
+
+<li>Climate-friendly technologies</li>
+
+<li>Balance between development and environment</li>
+
+</ul>
+
+<hr>
+
+<h3>☀️ International Solar Alliance (ISA)</h3>
+
+<p>
+<b>English:</b><br>
+India and France initiated the International Solar Alliance to promote solar energy cooperation among countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సౌర శక్తి సహకారాన్ని పెంచడానికి భారత్ మరియు ఫ్రాన్స్ కలిసి International Solar Alliance ను ప్రారంభించాయి.
+</p>
+
+<hr>
+
+<h3>⚖️ Climate Justice</h3>
+
+<p>
+<b>English:</b><br>
+Climate justice highlights that countries with greater historical emissions should take greater responsibility.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+చారిత్రకంగా ఎక్కువ కాలుష్య ఉద్గారాలు చేసిన దేశాలు ఎక్కువ బాధ్యత తీసుకోవాలని Climate Justice భావన చెబుతుంది.
+</p>
+
+<hr>
+
+<h3>🔥 Climate Governance Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Global Cooperation  
++<br>
+Sustainable Development  
++<br>
+Clean Energy  
+
+<br><br>
+
+= Climate Security
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Paris Agreement is related to:</b>
+</p>
+
+<p>
+A) Climate change<br>
+B) Nuclear weapons<br>
+C) International trade<br>
+D) Defence cooperation
+</p>
+
+<p>
+<b>✅ Answer: A) Climate change</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. International Solar Alliance was initiated by:</b>
+</p>
+
+<p>
+A) India and France<br>
+B) India and USA<br>
+C) India and Japan<br>
+D) India and Russia
+</p>
+
+<p>
+<b>✅ Answer: A) India and France</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 25 -->
+<!-- TERRORISM -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>☠️ Terrorism: Global Challenge</h3>
+
+<h3>(ఉగ్రవాదం: ప్రపంచ సవాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Terrorism is one of the major non-traditional security challenges that affects international peace, national security and human lives.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ శాంతి, జాతీయ భద్రత మరియు మానవ జీవితాలను ప్రభావితం చేసే ప్రధాన సాంప్రదాయేతర భద్రతా సవాళ్లలో ఉగ్రవాదం ఒకటి.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of Terrorism</h3>
+
+<p>
+<b>English:</b><br>
+Terrorism refers to the use of violence or threat of violence to create fear and achieve political, ideological or social objectives.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భయం సృష్టించి రాజకీయ, సిద్ధాంతపరమైన లేదా సామాజిక లక్ష్యాలను సాధించడానికి హింస లేదా హింస బెదిరింపులను ఉపయోగించడాన్ని ఉగ్రవాదం అంటారు.
+</p>
+
+<hr>
+
+<h3>⭐ Features of Terrorism</h3>
+
+<ul>
+
+<li>Use of violence</li>
+
+<li>Targeting civilians</li>
+
+<li>Creating fear among people</li>
+
+<li>Political or ideological motives</li>
+
+<li>Cross-border networks</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Causes of Terrorism</h3>
+
+<hr>
+
+<h4>1️⃣ Political Factors</h4>
+
+<ul>
+
+<li>Political instability</li>
+
+<li>Conflicts and grievances</li>
+
+<li>Lack of governance</li>
+
+</ul>
+
+<hr>
+
+<h4>2️⃣ Social and Economic Factors</h4>
+
+<ul>
+
+<li>Poverty</li>
+
+<li>Unemployment</li>
+
+<li>Social inequalities</li>
+
+</ul>
+
+<hr>
+
+<h4>3️⃣ Ideological Factors</h4>
+
+<ul>
+
+<li>Extreme beliefs</li>
+
+<li>Radicalisation</li>
+
+<li>Hate-based narratives</li>
+
+</ul>
+
+<hr>
+
+<h3>🌍 Global Impact of Terrorism</h3>
+
+<ul>
+
+<li>Loss of human lives</li>
+
+<li>Economic damage</li>
+
+<li>Political instability</li>
+
+<li>Fear and insecurity</li>
+
+<li>International tensions</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 International Efforts Against Terrorism</h3>
+
+<hr>
+
+<h4>1️⃣ United Nations Role</h4>
+
+<ul>
+
+<li>Counter-terrorism frameworks</li>
+
+<li>International cooperation</li>
+
+<li>Security Council resolutions</li>
+
+</ul>
+
+<hr>
+
+<h4>2️⃣ Global Cooperation</h4>
+
+<ul>
+
+<li>Intelligence sharing</li>
+
+<li>Financial monitoring</li>
+
+<li>Joint security efforts</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 India's Approach Towards Terrorism</h3>
+
+<p>
+<b>English:</b><br>
+India follows a comprehensive approach combining security measures, diplomacy and international cooperation to counter terrorism.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఉగ్రవాదాన్ని ఎదుర్కోవడానికి భారత్ భద్రతా చర్యలు, దౌత్యం మరియు అంతర్జాతీయ సహకారంతో సమగ్ర విధానాన్ని అనుసరిస్తుంది.
+</p>
+
+<hr>
+
+<h3>⭐ India's Key Measures</h3>
+
+<ul>
+
+<li>Strengthening security forces</li>
+
+<li>Counter-terrorism operations</li>
+
+<li>International cooperation</li>
+
+<li>Demand for global action against terrorism</li>
+
+<li>Preventing radicalisation</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 India and Global Counter-Terrorism</h3>
+
+<p>
+<b>English:</b><br>
+India supports international cooperation and has advocated for a Comprehensive Convention on International Terrorism (CCIT) at the United Nations.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ ఐక్యరాజ్యసమితిలో Comprehensive Convention on International Terrorism (CCIT) కోసం మద్దతు ఇస్తోంది.
+</p>
+
+<hr>
+
+<h3>📊 Terrorism Summary</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Aspect</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Nature</td>
+<td>Non-traditional security threat</td>
+</tr>
+
+<tr>
+<td>Impact</td>
+<td>Human and global security</td>
+</tr>
+
+<tr>
+<td>Solution</td>
+<td>International cooperation</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🔥 Counter-Terrorism Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Security Measures  
++<br>
+Diplomacy  
++<br>
+Global Cooperation  
++<br>
+Development  
+
+<br><br>
+
+= Effective Counter-Terrorism
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Terrorism is mainly considered as:</b>
+</p>
+
+<p>
+A) Non-traditional security challenge<br>
+B) Economic policy<br>
+C) Trade issue<br>
+D) Cultural exchange
+</p>
+
+<p>
+<b>✅ Answer: A) Non-traditional security challenge</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. CCIT is related to:</b>
+</p>
+
+<p>
+A) Counter-terrorism<br>
+B) Climate change<br>
+C) International trade<br>
+D) Nuclear energy
+</p>
+
+<p>
+<b>✅ Answer: A) Counter-terrorism</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 26 -->
+<!-- CYBER SECURITY -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>💻 Cyber Security: Emerging Global Challenge</h3>
+
+<h3>(సైబర్ భద్రత: అభివృద్ధి చెందుతున్న ప్రపంచ సవాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Cyber security has become an important part of international security due to increasing dependence on digital technology and internet-based systems.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+డిజిటల్ సాంకేతికత మరియు ఇంటర్నెట్ ఆధారిత వ్యవస్థలపై ఆధారపడటం పెరగడం వల్ల సైబర్ భద్రత అంతర్జాతీయ భద్రతలో ముఖ్యమైన అంశంగా మారింది.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of Cyber Security</h3>
+
+<p>
+<b>English:</b><br>
+Cyber security refers to protecting computers, networks, digital systems and data from cyber attacks and unauthorized access.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+కంప్యూటర్లు, నెట్‌వర్క్‌లు, డిజిటల్ వ్యవస్థలు మరియు డేటాను సైబర్ దాడులు మరియు అనధికార ప్రాప్యత నుండి రక్షించడాన్ని సైబర్ భద్రత అంటారు.
+</p>
+
+<hr>
+
+<h3>⭐ Importance of Cyber Security</h3>
+
+<ul>
+
+<li>Protection of sensitive data</li>
+
+<li>Security of critical infrastructure</li>
+
+<li>Protection of financial systems</li>
+
+<li>Maintaining national security</li>
+
+<li>Ensuring digital trust</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Major Cyber Threats</h3>
+
+<hr>
+
+<h4>1️⃣ Cyber Attacks</h4>
+
+<p>
+Attacks on digital systems to steal information or disrupt services.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సమాచారాన్ని దొంగిలించడం లేదా సేవలను అంతరాయం కలిగించడానికి చేసే డిజిటల్ దాడులు.
+</p>
+
+<hr>
+
+<h4>2️⃣ Data Theft</h4>
+
+<p>
+Unauthorized access and misuse of personal or government information.
+</p>
+
+<hr>
+
+<h4>3️⃣ Cyber Terrorism</h4>
+
+<p>
+Use of cyber technology to create fear and damage critical systems.
+</p>
+
+<hr>
+
+<h4>4️⃣ Online Fraud</h4>
+
+<ul>
+
+<li>Financial scams</li>
+
+<li>Identity theft</li>
+
+<li>Digital fraud</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 Cyber Security and International Relations</h3>
+
+<p>
+<b>English:</b><br>
+Cyber threats cross national borders, requiring cooperation among countries.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+సైబర్ బెదిరింపులు దేశ సరిహద్దులను దాటుతాయి కాబట్టి అంతర్జాతీయ సహకారం అవసరం.
+</p>
+
+<hr>
+
+<h3>🏛️ International Cyber Cooperation</h3>
+
+<ul>
+
+<li>Information sharing among countries</li>
+
+<li>Cyber security agreements</li>
+
+<li>Protection of digital infrastructure</li>
+
+<li>International cyber norms</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 India's Cyber Security Approach</h3>
+
+<p>
+<b>English:</b><br>
+India focuses on strengthening cyber infrastructure, protecting digital systems and promoting safe digital development.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ సైబర్ మౌలిక సదుపాయాలను బలోపేతం చేయడం, డిజిటల్ వ్యవస్థలను రక్షించడం మరియు సురక్షిత డిజిటల్ అభివృద్ధిపై దృష్టి పెడుతుంది.
+</p>
+
+<hr>
+
+<h3>⭐ Important Indian Initiatives</h3>
+
+<ul>
+
+<li>Cyber security policies</li>
+
+<li>Cyber emergency response mechanisms</li>
+
+<li>Digital awareness programmes</li>
+
+<li>Protection of critical information infrastructure</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Challenges in Cyber Security</h3>
+
+<ul>
+
+<li>Rapid technological changes</li>
+
+<li>Increasing cyber crimes</li>
+
+<li>Lack of global cyber rules</li>
+
+<li>Shortage of skilled professionals</li>
+
+</ul>
+
+<hr>
+
+<h3>📊 Cyber Security Summary</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Aspect</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Nature</td>
+<td>Non-traditional security challenge</td>
+</tr>
+
+<tr>
+<td>Target</td>
+<td>Digital systems and data</td>
+</tr>
+
+<tr>
+<td>Solution</td>
+<td>Technology + International cooperation</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🔥 Cyber Security Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Technology  
++<br>
+Awareness  
++<br>
+International Cooperation  
++<br>
+Strong Policies  
+
+<br><br>
+
+= Cyber Security
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Cyber security mainly protects:</b>
+</p>
+
+<p>
+A) Digital systems and data<br>
+B) Only physical borders<br>
+C) Trade agreements<br>
+D) Cultural heritage
+</p>
+
+<p>
+<b>✅ Answer: A) Digital systems and data</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. Cyber security is a part of:</b>
+</p>
+
+<p>
+A) Non-traditional security<br>
+B) Traditional military security only<br>
+C) Economic policy only<br>
+D) Foreign trade only
+</p>
+
+<p>
+<b>✅ Answer: A) Non-traditional security</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 27 -->
+<!-- HUMAN RIGHTS & INTERNATIONAL RELATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>⚖️ Human Rights & International Relations</h3>
+
+<h3>(మానవ హక్కులు & అంతర్జాతీయ సంబంధాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Human rights are fundamental rights and freedoms that belong to every individual irrespective of nationality, religion, gender or social status.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+జాతీయత, మతం, లింగం లేదా సామాజిక స్థితితో సంబంధం లేకుండా ప్రతి వ్యక్తికి లభించే ప్రాథమిక హక్కులు మరియు స్వేచ్ఛలను మానవ హక్కులు అంటారు.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of Human Rights</h3>
+
+<p>
+<b>English:</b><br>
+Human rights protect human dignity, equality and freedom.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+మానవ గౌరవం, సమానత్వం మరియు స్వేచ్ఛను రక్షించేవి మానవ హక్కులు.
+</p>
+
+<hr>
+
+<h3>⭐ Features of Human Rights</h3>
+
+<ul>
+
+<li>Universal in nature</li>
+
+<li>Equal for all people</li>
+
+<li>Essential for human dignity</li>
+
+<li>Protected through laws and institutions</li>
+
+<li>Interconnected and indivisible</li>
+
+</ul>
+
+<hr>
+
+<h3>📜 Universal Declaration of Human Rights (UDHR)</h3>
+
+<p>
+<b>Adopted:</b> 1948
+</p>
+
+<p>
+<b>Organisation:</b> United Nations
+</p>
+
+<p>
+<b>Purpose:</b> Establish global standards for protection of human rights.
+</p>
+
+<hr>
+
+<h3>⭐ Important Human Rights</h3>
+
+<ul>
+
+<li>Right to life</li>
+
+<li>Right to equality</li>
+
+<li>Freedom of expression</li>
+
+<li>Freedom from discrimination</li>
+
+<li>Right to education</li>
+
+<li>Right to security</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 Human Rights and International Relations</h3>
+
+<p>
+<b>English:</b><br>
+Human rights have become an important part of foreign policy, diplomacy and international cooperation.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+మానవ హక్కులు విదేశాంగ విధానం, దౌత్యం మరియు అంతర్జాతీయ సహకారంలో ముఖ్యమైన అంశంగా మారాయి.
+</p>
+
+<hr>
+
+<h3>🏛️ Role of United Nations</h3>
+
+<ul>
+
+<li>Promotes human rights protection</li>
+
+<li>Creates international standards</li>
+
+<li>Monitors human rights situations</li>
+
+<li>Supports vulnerable groups</li>
+
+</ul>
+
+<hr>
+
+<h3>🌍 Major Global Human Rights Challenges</h3>
+
+<hr>
+
+<h4>1️⃣ Refugee Crisis</h4>
+
+<p>
+Millions of people are displaced due to conflicts, violence and disasters.
+</p>
+
+<hr>
+
+<h4>2️⃣ Discrimination</h4>
+
+<p>
+Unequal treatment based on identity or social factors remains a challenge.
+</p>
+
+<hr>
+
+<h4>3️⃣ Human Trafficking</h4>
+
+<p>
+Illegal exploitation of people violates basic human rights.
+</p>
+
+<hr>
+
+<h4>4️⃣ Conflict and Violence</h4>
+
+<p>
+Wars and conflicts create serious humanitarian problems.
+</p>
+
+<hr>
+
+<h3>🇮🇳 Human Rights in India</h3>
+
+<p>
+<b>English:</b><br>
+India protects human rights through constitutional provisions, laws and institutions.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారతదేశం రాజ్యాంగ నిబంధనలు, చట్టాలు మరియు సంస్థల ద్వారా మానవ హక్కులను రక్షిస్తుంది.
+</p>
+
+<hr>
+
+<h3>⭐ Constitutional Protection in India</h3>
+
+<ul>
+
+<li>Fundamental Rights</li>
+
+<li>Right to Equality</li>
+
+<li>Right to Freedom</li>
+
+<li>Protection against exploitation</li>
+
+<li>Right to life and personal liberty</li>
+
+</ul>
+
+<hr>
+
+<h3>🏛️ National Human Rights Commission (NHRC)</h3>
+
+<p>
+<b>Established:</b> 1993
+</p>
+
+<p>
+<b>Role:</b>
+</p>
+
+<ul>
+
+<li>Protect human rights</li>
+
+<li>Investigate violations</li>
+
+<li>Recommend measures</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Challenges in Human Rights Protection</h3>
+
+<ul>
+
+<li>Conflict situations</li>
+
+<li>Poverty and inequality</li>
+
+<li>Discrimination</li>
+
+<li>Lack of awareness</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 Human Rights Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Dignity  
++<br>
+Equality  
++<br>
+Freedom  
++<br>
+Justice  
+
+<br><br>
+
+= Human Rights Protection
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. UDHR was adopted in:</b>
+</p>
+
+<p>
+A) 1948<br>
+B) 1950<br>
+C) 1975<br>
+D) 1993
+</p>
+
+<p>
+<b>✅ Answer: A) 1948</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. NHRC of India was established in:</b>
+</p>
+
+<p>
+A) 1993<br>
+B) 1948<br>
+C) 1976<br>
+D) 2000
+</p>
+
+<p>
+<b>✅ Answer: A) 1993</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 28 -->
+<!-- REFUGEE CRISIS & MIGRATION -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🧳 Refugee Crisis & Migration</h3>
+
+<h3>(శరణార్థుల సంక్షోభం & వలసలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Migration and refugee movements have become major global issues affecting international relations, security, economy and humanitarian policies.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వలసలు మరియు శరణార్థుల సమస్యలు అంతర్జాతీయ సంబంధాలు, భద్రత, ఆర్థిక వ్యవస్థ మరియు మానవతా విధానాలను ప్రభావితం చేసే ప్రధాన ప్రపంచ సమస్యలుగా మారాయి.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of Migration</h3>
+
+<p>
+<b>English:</b><br>
+Migration refers to the movement of people from one place to another for various reasons such as employment, education, security or better living conditions.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఉద్యోగం, విద్య, భద్రత లేదా మెరుగైన జీవన పరిస్థితుల కోసం ప్రజలు ఒక ప్రాంతం నుండి మరొక ప్రాంతానికి వెళ్లడాన్ని వలస అంటారు.
+</p>
+
+<hr>
+
+<h3>📚 Meaning of Refugee</h3>
+
+<p>
+<b>English:</b><br>
+A refugee is a person who leaves their country due to war, persecution, violence or serious threats to life.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+యుద్ధం, హింస, వేధింపులు లేదా ప్రాణాలకు ముప్పు కారణంగా తన దేశాన్ని విడిచి వెళ్లే వ్యక్తిని శరణార్థి అంటారు.
+</p>
+
+<hr>
+
+<h3>⭐ Types of Migration</h3>
+
+<ul>
+
+<li>Voluntary migration</li>
+
+<li>Forced migration</li>
+
+<li>Internal migration</li>
+
+<li>International migration</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Causes of Refugee Crisis</h3>
+
+<hr>
+
+<h4>1️⃣ Conflicts and Wars</h4>
+
+<p>
+Armed conflicts force people to leave their homes.
+</p>
+
+<hr>
+
+<h4>2️⃣ Political Persecution</h4>
+
+<p>
+People may flee due to political or social oppression.
+</p>
+
+<hr>
+
+<h4>3️⃣ Economic Problems</h4>
+
+<p>
+Poverty and lack of opportunities encourage migration.
+</p>
+
+<hr>
+
+<h4>4️⃣ Climate Change</h4>
+
+<p>
+Environmental disasters can create climate refugees.
+</p>
+
+<hr>
+
+<h3>🌍 Impact of Refugee Crisis</h3>
+
+<ul>
+
+<li>Humanitarian challenges</li>
+
+<li>Pressure on resources</li>
+
+<li>Security concerns</li>
+
+<li>Social integration issues</li>
+
+<li>Economic challenges</li>
+
+</ul>
+
+<hr>
+
+<h3>🏛️ International Response</h3>
+
+<hr>
+
+<h4>United Nations Role</h4>
+
+<ul>
+
+<li>Protection of refugees</li>
+
+<li>Humanitarian assistance</li>
+
+<li>International cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>📜 1951 Refugee Convention</h3>
+
+<p>
+<b>English:</b><br>
+The Refugee Convention provides an international framework for protection of refugees.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+శరణార్థుల రక్షణ కోసం అంతర్జాతీయ చట్టపరమైన వ్యవస్థను 1951 Refugee Convention అందిస్తుంది.
+</p>
+
+<hr>
+
+<h3>🇮🇳 India's Approach Towards Refugees</h3>
+
+<p>
+<b>English:</b><br>
+India has a long tradition of providing humanitarian support to refugees while balancing security concerns.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+భారత్ మానవతా సహాయాన్ని అందించే సంప్రదాయాన్ని కొనసాగిస్తూ భద్రతా అంశాలను కూడా పరిగణనలోకి తీసుకుంటుంది.
+</p>
+
+<hr>
+
+<h3>⭐ Refugee Policy Considerations in India</h3>
+
+<ul>
+
+<li>Humanitarian assistance</li>
+
+<li>National security</li>
+
+<li>Border management</li>
+
+<li>International cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>⚖️ Migration and Development</h3>
+
+<p>
+<b>English:</b><br>
+Migration can contribute to economic growth through skills, remittances and cultural exchange.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+నైపుణ్యాలు, విదేశీ మారకద్రవ్యం మరియు సాంస్కృతిక మార్పిడి ద్వారా వలసలు ఆర్థిక అభివృద్ధికి సహాయపడతాయి.
+</p>
+
+<hr>
+
+<h3>🔥 Migration Management Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Humanity  
++<br>
+Security  
++<br>
+International Cooperation  
+
+<br><br>
+
+= Balanced Migration Policy
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Refugees generally leave their country due to:</b>
+</p>
+
+<p>
+A) War and persecution<br>
+B) Tourism<br>
+C) Business expansion<br>
+D) Entertainment
+</p>
+
+<p>
+<b>✅ Answer: A) War and persecution</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. 1951 Refugee Convention is related to:</b>
+</p>
+
+<p>
+A) Refugee protection<br>
+B) International trade<br>
+C) Nuclear energy<br>
+D) Climate finance
+</p>
+
+<p>
+<b>✅ Answer: A) Refugee protection</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 29 -->
+<!-- GLOBALISATION & INTERNATIONAL RELATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🌐 Globalisation & International Relations</h3>
+
+<h3>(ప్రపంచీకరణ & అంతర్జాతీయ సంబంధాలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Globalisation refers to the increasing interconnectedness and interdependence among countries through trade, technology, communication and cultural exchange.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, సాంకేతికత, సమాచార మార్పిడి మరియు సాంస్కృతిక సంబంధాల ద్వారా దేశాలు పరస్పరం అనుసంధానమవడాన్ని ప్రపంచీకరణ అంటారు.
+</p>
+
+<hr>
+
+<h3>📚 Features of Globalisation</h3>
+
+<ul>
+
+<li>Growth of international trade</li>
+
+<li>Movement of capital and investment</li>
+
+<li>Expansion of technology</li>
+
+<li>Global communication networks</li>
+
+<li>Cultural exchange</li>
+
+</ul>
+
+<hr>
+
+<h3>🌍 Dimensions of Globalisation</h3>
+
+<hr>
+
+<h4>1️⃣ Economic Globalisation</h4>
+
+<p>
+<b>English:</b><br>
+Integration of national economies through trade, investment and global markets.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+వాణిజ్యం, పెట్టుబడులు మరియు ప్రపంచ మార్కెట్ల ద్వారా ఆర్థిక వ్యవస్థల అనుసంధానాన్ని ఆర్థిక ప్రపంచీకరణ అంటారు.
+</p>
+
+<hr>
+
+<h4>2️⃣ Political Globalisation</h4>
+
+<p>
+Countries cooperate through international organisations and agreements.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+అంతర్జాతీయ సంస్థలు మరియు ఒప్పందాల ద్వారా దేశాలు సహకరించడాన్ని రాజకీయ ప్రపంచీకరణ అంటారు.
+</p>
+
+<hr>
+
+<h4>3️⃣ Cultural Globalisation</h4>
+
+<p>
+Exchange of ideas, traditions, languages and lifestyles among societies.
+</p>
+
+<hr>
+
+<h4>4️⃣ Technological Globalisation</h4>
+
+<p>
+Rapid spread of digital technologies and communication systems.
+</p>
+
+<hr>
+
+<h3>⭐ Impact of Globalisation</h3>
+
+<hr>
+
+<h4>Positive Effects</h4>
+
+<ul>
+
+<li>Economic growth</li>
+
+<li>Technology development</li>
+
+<li>More international cooperation</li>
+
+<li>Access to global markets</li>
+
+<li>Cultural exchange</li>
+
+</ul>
+
+<hr>
+
+<h4>Negative Effects</h4>
+
+<ul>
+
+<li>Economic inequalities</li>
+
+<li>Dependence on global markets</li>
+
+<li>Cultural challenges</li>
+
+<li>Environmental pressure</li>
+
+<li>Loss of local industries</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 Globalisation and India</h3>
+
+<p>
+<b>English:</b><br>
+India adopted economic liberalisation in 1991, which increased its integration with the global economy.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+1991లో భారతదేశం ఆర్థిక సరళీకరణ విధానాలను స్వీకరించడం ద్వారా ప్రపంచ ఆర్థిక వ్యవస్థతో అనుసంధానం పెంచుకుంది.
+</p>
+
+<hr>
+
+<h3>⭐ Effects on India</h3>
+
+<ul>
+
+<li>Growth of IT sector</li>
+
+<li>Increase in foreign investment</li>
+
+<li>Expansion of services sector</li>
+
+<li>Growth of international trade</li>
+
+<li>Employment opportunities</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Challenges for India</h3>
+
+<ul>
+
+<li>Income inequality</li>
+
+<li>Pressure on small industries</li>
+
+<li>Environmental concerns</li>
+
+<li>Global economic uncertainties</li>
+
+</ul>
+
+<hr>
+
+<h3>🌐 Globalisation and International Relations</h3>
+
+<p>
+<b>English:</b><br>
+Globalisation has changed international relations by increasing economic cooperation and creating new global challenges.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ప్రపంచీకరణ ఆర్థిక సహకారాన్ని పెంచడంతో పాటు కొత్త ప్రపంచ సవాళ్లను కూడా సృష్టించింది.
+</p>
+
+<hr>
+
+<h3>🔥 Globalisation Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Trade  
++<br>
+Technology  
++<br>
+Connectivity  
++<br>
+Cooperation  
+
+<br><br>
+
+= Globalisation
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. Globalisation mainly increases:</b>
+</p>
+
+<p>
+A) Interconnection among countries<br>
+B) Isolation of countries<br>
+C) End of trade<br>
+D) Reduction of technology
+</p>
+
+<p>
+<b>✅ Answer: A) Interconnection among countries</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. India introduced economic liberalisation in:</b>
+</p>
+
+<p>
+A) 1991<br>
+B) 1971<br>
+C) 2001<br>
+D) 1947
+</p>
+
+<p>
+<b>✅ Answer: A) 1991</b>
+</p>
+
+</section>
+<!-- ================================= -->
+<!-- CIVILS MASTER PREMIUM IR -->
+<!-- CHAPTER 1 : INTRODUCTION TO INTERNATIONAL RELATIONS -->
+<!-- PART 30 -->
+<!-- REGIONAL ORGANISATIONS -->
+<!-- ================================= -->
+
+<section class="card">
+
+<h2>🌍 Chapter 1 : Introduction to International Relations</h2>
+
+<h3>(అంతర్జాతీయ సంబంధాలకు పరిచయం)</h3>
+
+<hr>
+
+<h3>🌐 Regional Organisations</h3>
+
+<h3>(ప్రాంతీయ అంతర్జాతీయ సంస్థలు)</h3>
+
+<hr>
+
+<h3>🎯 Introduction</h3>
+
+<p>
+<b>English:</b><br>
+Regional organisations are groups of countries formed to promote economic cooperation, security, cultural relations and regional development.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ఆర్థిక సహకారం, భద్రత, సాంస్కృతిక సంబంధాలు మరియు ప్రాంతీయ అభివృద్ధిని ప్రోత్సహించడానికి దేశాలు కలిసి ఏర్పాటు చేసే సంస్థలను ప్రాంతీయ సంస్థలు అంటారు.
+</p>
+
+<hr>
+
+<h3>🌏 1️⃣ SAARC</h3>
+
+<h3>(South Asian Association for Regional Cooperation)</h3>
+
+<hr>
+
+<p>
+<b>Established:</b> 1985
+</p>
+
+<p>
+<b>Headquarters:</b> Kathmandu, Nepal
+</p>
+
+<p>
+<b>Members:</b> 8 South Asian countries
+</p>
+
+<hr>
+
+<h3>⭐ Objectives of SAARC</h3>
+
+<ul>
+
+<li>Promote economic cooperation</li>
+
+<li>Improve regional development</li>
+
+<li>Strengthen cultural relations</li>
+
+<li>Enhance cooperation among South Asian countries</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 India's Role in SAARC</h3>
+
+<ul>
+
+<li>Largest economy in South Asia</li>
+
+<li>Supports regional connectivity</li>
+
+<li>Promotes development cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>⚠️ Challenges of SAARC</h3>
+
+<ul>
+
+<li>India-Pakistan tensions</li>
+
+<li>Political differences</li>
+
+<li>Limited economic integration</li>
+
+</ul>
+
+<hr>
+
+<h3>🌏 2️⃣ ASEAN</h3>
+
+<h3>(Association of Southeast Asian Nations)</h3>
+
+<hr>
+
+<p>
+<b>Established:</b> 1967
+</p>
+
+<p>
+<b>Purpose:</b> Economic growth, peace and regional stability in Southeast Asia
+</p>
+
+<hr>
+
+<h3>⭐ ASEAN and India</h3>
+
+<ul>
+
+<li>Important partner under Act East Policy</li>
+
+<li>Trade cooperation</li>
+
+<li>Connectivity projects</li>
+
+<li>Strategic cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>🌉 India-ASEAN Relations</h3>
+
+<p>
+<b>English:</b><br>
+ASEAN is a key pillar of India's Act East Policy.
+</p>
+
+<p>
+<b>తెలుగు:</b><br>
+ASEAN భారతదేశం యొక్క Act East Policy లో ముఖ్యమైన భాగం.
+</p>
+
+<hr>
+
+<h3>🌏 3️⃣ BIMSTEC</h3>
+
+<h3>(Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)</h3>
+
+<hr>
+
+<p>
+<b>Established:</b> 1997
+</p>
+
+<p>
+<b>Region:</b> Bay of Bengal region
+</p>
+
+<hr>
+
+<h3>⭐ Objectives of BIMSTEC</h3>
+
+<ul>
+
+<li>Economic cooperation</li>
+
+<li>Connectivity development</li>
+
+<li>Security cooperation</li>
+
+<li>Technical cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>🇮🇳 Importance of BIMSTEC for India</h3>
+
+<ul>
+
+<li>Connects South Asia and Southeast Asia</li>
+
+<li>Supports Act East Policy</li>
+
+<li>Alternative platform for regional cooperation</li>
+
+</ul>
+
+<hr>
+
+<h3>📊 Comparison Table</h3>
+
+<table border="1" width="100%">
+
+<tr>
+<th>Organisation</th>
+<th>Region</th>
+</tr>
+
+<tr>
+<td>SAARC</td>
+<td>South Asia</td>
+</tr>
+
+<tr>
+<td>ASEAN</td>
+<td>Southeast Asia</td>
+</tr>
+
+<tr>
+<td>BIMSTEC</td>
+<td>Bay of Bengal Region</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h3>🌐 Importance of Regional Organisations</h3>
+
+<ul>
+
+<li>Economic integration</li>
+
+<li>Regional peace</li>
+
+<li>Connectivity</li>
+
+<li>Collective problem solving</li>
+
+<li>People-to-people relations</li>
+
+</ul>
+
+<hr>
+
+<h3>🔥 Regional Cooperation Formula</h3>
+
+<div class="highlight">
+
+<p>
+
+Economic Cooperation  
++<br>
+Connectivity  
++<br>
+Security  
++<br>
+Mutual Trust  
+
+<br><br>
+
+= Regional Development
+
+</p>
+
+</div>
+
+<hr>
+
+<h3>❓ Practice MCQs</h3>
+
+<p>
+<b>Q1. SAARC was established in:</b>
+</p>
+
+<p>
+A) 1985<br>
+B) 1995<br>
+C) 1967<br>
+D) 2001
+</p>
+
+<p>
+<b>✅ Answer: A) 1985</b>
+</p>
+
+<br>
+
+<p>
+<b>Q2. BIMSTEC is associated with:</b>
+</p>
+
+<p>
+A) Bay of Bengal region<br>
+B) European region<br>
+C) African region<br>
+D) Arctic region
+</p>
+
+<p>
+<b>✅ Answer: A) Bay of Bengal region</b>
+</p>
+
+</section>
