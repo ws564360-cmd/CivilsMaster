@@ -2,7 +2,7 @@
   "name": "Civils Master",
   "short_name": "CivilsMaster",
   "description": "UPSC Civil Services Preparation App",
-  "start_url": "./index.html",
+  "start_url": "./"
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d47a1",
